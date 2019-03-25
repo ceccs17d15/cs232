@@ -1,47 +1,0 @@
-Script started on Monday 18 March 2019 12:09:38 PM IST
-]0;cec-lab2@ceclab2-Veriton-Series: ~cec-lab2@ceclab2-Veriton-Series:~$ if con[K[K[K[K[K[Ksudo ifconfig
-[sudo] password for cec-lab2: 
-lo        Link encap:Local Loopback  
-          inet addr:127.0.0.1  Mask:255.0.0.0
-          inet6 addr: ::1/128 Scope:Host
-          UP LOOPBACK RUNNING  MTU:65536  Metric:1
-          RX packets:617 errors:0 dropped:0 overruns:0 frame:0
-          TX packets:617 errors:0 dropped:0 overruns:0 carrier:0
-          collisions:0 txqueuelen:0 
-          RX bytes:86538 (86.5 KB)  TX bytes:86538 (86.5 KB)
-
-]0;cec-lab2@ceclab2-Veriton-Series: ~cec-lab2@ceclab2-Veriton-Series:~$ sudo if con[K[K[K[Kconfigcript lan.txtexit[Kif config;  exit; sudo ifconfig eth0 down[6Pping 192.168.0.90[4Psudo ifconfig eth0 192.168.0.91 netmask 255.2555.255.0[A]0;cec-lab2@ceclab2-Veriton-Series: ~cec-lab2@ceclab2-Veriton-Series:~$ [C[C[C[C[C[C[C[C[C[C[C[C[C[K
-[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cadduser s4c47[1P26c2[1Ps6c2passwd s4d2addusers6c2 s6c24c247[5Pifconfig eth0 192.168.0.91 netmask 255.2555.255.0
-]0;cec-lab2@ceclab2-Veriton-Series: ~cec-lab2@ceclab2-Veriton-Series:~$ sudo ifconfig eth0 192.168.0.91 netmask 255.2555.255.0[A]0;cec-lab2@ceclab2-Veriton-Series: ~cec-lab2@ceclab2-Veriton-Series:~$ [C[C[C[C[C[C[C[C[C[C[C[C[C[K
-[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
-eth0      Link encap:Ethernet  HWaddr 10:78:d2:e0:ac:f8  
-          inet addr:192.168.0.91  Bcast:192.168.0.255  Mask:255.255.255.0
-          inet6 addr: fe80::1278:d2ff:fee0:acf8/64 Scope:Link
-          UP BROADCAST RUNNING MULTICAST  MTU:1500  Metric:1
-          RX packets:9854416 errors:0 dropped:0 overruns:0 frame:0
-          TX packets:14814 errors:0 dropped:0 overruns:0 carrier:0
-          collisions:0 txqueuelen:1000 
-          RX bytes:3558205641 (3.5 GB)  TX bytes:2400301 (2.4 MB)
-          Interrupt:20 Memory:fbbc0000-fbbe0000 
-
-lo        Link encap:Local Loopback  
-          inet addr:127.0.0.1  Mask:255.0.0.0
-          inet6 addr: ::1/128 Scope:Host
-          UP LOOPBACK RUNNING  MTU:65536  Metric:1
-          RX packets:617 errors:0 dropped:0 overruns:0 frame:0
-          TX packets:617 errors:0 dropped:0 overruns:0 carrier:0
-          collisions:0 txqueuelen:0 
-          RX bytes:86538 (86.5 KB)  TX bytes:86538 (86.5 KB)
-
-]0;cec-lab2@ceclab2-Veriton-Series: ~cec-lab2@ceclab2-Veriton-Series:~$ sudo ifconfig eth0 192.168.0.91 netmask 255.2555.255.0[A]0;cec-lab2@ceclab2-Veriton-Series: ~cec-lab2@ceclab2-Veriton-Series:~$ [C[C[C[C[C[C[C[C[C[C[C[C[C[K
-[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ccript lan.txtexit[Kif config;  exit; sudo ifconfig eth0 down[5Pif config;  exit; exit[Kscript lan.txt[1Pudo ifconfigcript lan.txtexit[Kif config;  exit; exit[Kscript lan.txt[1Pudo ifconfig eth0 192.168.0.91 netmask 255.2555.255.0[A]0;cec-lab2@ceclab2-Veriton-Series: ~cec-lab2@ceclab2-Veriton-Series:~$ [C[C[C[C[C[C[C[C[C[C[C[C[C[K
-[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C eth0 192.168.0.91 netmask 255.2555.255.0[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K
-[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ksudo ifconfig eth0 192.168.0.91 netmask 255.2555.255.0[A]0;cec-lab2@ceclab2-Veriton-Series: ~cec-lab2@ceclab2-Veriton-Series:~$ [C[C[C[C[C[C[C[C[C[C[C[C[C[K
-[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ccript lan.txtexit[Kif config;  exit; sudo ifconfig eth0 down
-]0;cec-lab2@ceclab2-Veriton-Series: ~cec-lab2@ceclab2-Veriton-Series:~$ sudo ifconfig eth0 down[K eth0 192.168.0.91 netmask 255.2555.255.0[A]0;cec-lab2@ceclab2-Veriton-Series: ~cec-lab2@ceclab2-Veriton-Series:~$ [C[C[C[C[C[C[C[C[C[C[C[C[C[K
-[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C eth0 192.168.0.91 netmask 255.2555.255.0[A]0;cec-lab2@ceclab2-Veriton-Series: ~cec-lab2@ceclab2-Veriton-Series:~$ [C[C[C[C[C[C[C[C[C[C[C[C[C[K
-[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C eth0 down[Ksudo ifconfig eth0 down[K eth0 192.168.0.91 netmask 255.2555.255.0[A]0;cec-lab2@ceclab2-Veriton-Series: ~cec-lab2@ceclab2-Veriton-Series:~$ [C[C[C[C[C[C[C[C[C[C[C[C[C[K
-[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ccript lan.txtexit[K
-exit
-
-Script done on Monday 18 March 2019 12:10:55 PM IST
