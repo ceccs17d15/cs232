@@ -1,0 +1,77 @@
+Script started on 2019-03-25 09:53:07+0530
+]0;s4d1@tpc-Veriton-Series: ~[01;32ms4d1@tpc-Veriton-Series[00m:[01;34m~[00m$ sf[Kexitsftp cs17d02@192.168.0.30[12Pudo ifconfig[K[K[K[K[K[K[K[K[K[K[K[K[Ksftp cs17d15@192.168.0.30
+.
+              |
+.  .    . .-. | .-..-. .--.--. .-.
+ \  \  / (.-' |(  (   )|  |  |(.-'
+  `' `'   `--'` `-'`-' '  '  ` `--'
+cs17d15@192.168.0.30's password: 
+Connected to 192.168.0.30.
+sftp> put result.txt
+Uploading result.txt to /home/cs17d15/result.txt
+result.txt                                                                                                    0%    0     0.0KB/s   --:-- ETAresult.txt                                                                                                  100%   12KB   4.6MB/s   00:00    
+sftp> get result.txt
+Fetching /home/cs17d15/result.txt to result.txt
+/home/cs17d15/result.txt                                                                                      0%    0     0.0KB/s   --:-- ETA/home/cs17d15/result.txt                                                                                    100%   12KB   3.4MB/s   00:00    
+sftp> ls
+examples.desktop    result.txt          
+sftp> l[Kmkdir
+You must specify a path after a mkdir command.
+sftp> mkdir test
+sftp> ls
+examples.desktop    result.txt          test                
+sftp> version
+SFTP protocol version 3
+sftp> help
+Available commands:
+bye                                Quit sftp
+cd path                            Change remote directory to 'path'
+chgrp grp path                     Change group of file 'path' to 'grp'
+chmod mode path                    Change permissions of file 'path' to 'mode'
+chown own path                     Change owner of file 'path' to 'own'
+df [-hi] [path]                    Display statistics for current directory or
+                                   filesystem containing 'path'
+exit                               Quit sftp
+get [-afPpRr] remote [local]       Download file
+reget [-fPpRr] remote [local]      Resume download file
+reput [-fPpRr] [local] remote      Resume upload file
+help                               Display this help text
+lcd path                           Change local directory to 'path'
+lls [ls-options [path]]            Display local directory listing
+lmkdir path                        Create local directory
+ln [-s] oldpath newpath            Link remote file (-s for symlink)
+lpwd                               Print local working directory
+ls [-1afhlnrSt] [path]             Display remote directory listing
+lumask umask                       Set local umask to 'umask'
+mkdir path                         Create remote directory
+progress                           Toggle display of progress meter
+put [-afPpRr] local [remote]       Upload file
+pwd                                Display remote working directory
+quit                               Quit sftp
+rename oldpath newpath             Rename remote file
+rm path                            Delete remote file
+rmdir path                         Remove remote directory
+symlink oldpath newpath            Symlink remote file
+version                            Show SFTP version
+!command                           Execute 'command' in local shell
+!                                  Escape to local shell
+?                                  Synonym for help
+sftp> lls
+abc.txt			 ceccs17d05.25.02.19	  Desktop	  Public       result2.txt     roll	   roll6.txt	s2final.txt  Videos
+ami.txt			 ceccs17d15.04.02.19.txt  Documents	  reg1.txt     result_CHN.txt  roll10.txt  roll7.txt	s2sgpa.txt   z.txt
+athi.txt		 ceccs17d15.11.02.19	  Downloads	  reg2.txt     Result_CHN.txt  roll1.txt   roll8.txt	sgpas2.txt
+a.txt			 ceccs17d15.11.03.19	  final_cgpa.txt  reg.txt      result_CS.txt   roll2.txt   roll9.txt	sgpa.txt
+b.txt			 ceccs17d15.25.02.19	  Music		  res.txt      results2.txt    roll3.txt   s1final.txt	task1.sh
+ceccs17d05.04.02.19.txt  cgpa.txt		  oo.txt	  result1.pdf  result.txt      roll4.txt   s1_s2.txt	task5.txt
+ceccs17d05.11.02.19	 dbatch.txt		  Pictures	  result1.txt  resu.txt        roll5.txt   s1sgpa.txt	Templates
+sftp> get m[Kname.t[K[K[K[K[K[K[K[K[Klpwd
+Local working directory: /home/s4d1
+sftp> pwd
+Remote working directory: /home/cs17d15
+sftp> put name.txt
+stat name.txt: No such file or directory
+sftp> exit
+]0;s4d1@tpc-Veriton-Series: ~[01;32ms4d1@tpc-Veriton-Series[00m:[01;34m~[00m$ exit
+exit
+
+Script done on 2019-03-25 09:56:14+0530
