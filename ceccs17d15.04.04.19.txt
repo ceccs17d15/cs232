@@ -1,0 +1,39 @@
+Script started on 2019-04-04 10:32:35+0530
+]0;s4d1@tpc-Veriton-Series: ~[01;32ms4d1@tpc-Veriton-Series[00m:[01;34m~[00m$ me.txt[4Plsrsync -zvh cs17d15@192.168.0.30:/home/cs17d15/me.txt /home/cec
+.
+              |
+.  .    . .-. | .-..-. .--.--. .-.
+ \  \  / (.-' |(  (   )|  |  |(.-'
+  `' `'   `--'` `-'`-' '  '  ` `--'
+cs17d15@192.168.0.30's password: 
+rsync: mkstemp "/home/.cec.ZBJ7LW" failed: Permission denied (13)
+
+sent 43 bytes  received 95 bytes  25.09 bytes/sec
+total size is 14  speedup is 0.10
+rsync error: some files/attrs were not transferred (see previous errors) (code 23) at main.c(1668) [generator=3.1.2]
+]0;s4d1@tpc-Veriton-Series: ~[01;32ms4d1@tpc-Veriton-Series[00m:[01;34m~[00m$ rsync -zvh cs17d15@192.168.0.30:/home/cs17d15/me.txt /home/cec[K[K[Ks4d1/Desktop
+.
+              |
+.  .    . .-. | .-..-. .--.--. .-.
+ \  \  / (.-' |(  (   )|  |  |(.-'
+  `' `'   `--'` `-'`-' '  '  ` `--'
+cs17d15@192.168.0.30's password: 
+me.txt
+
+sent 43 bytes  received 95 bytes  25.09 bytes/sec
+total size is 14  speedup is 0.10
+]0;s4d1@tpc-Veriton-Series: ~[01;32ms4d1@tpc-Veriton-Series[00m:[01;34m~[00m$ rsync -zvh cs17d15@192.168.0.30:/home/cs17d15/me.txt /home/s4d1/Desktop[C[C[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[C cs17d15@192.168.0.30:/home/cs17d15r cs17d15@192.168.0.30:/home/cs17d15e cs17d15@192.168.0.30:/home/cs17d15s cs17d15@192.168.0.30:/home/cs17d15u cs17d15@192.168.0.30:/home/cs17d15l cs17d15@192.168.0.30:/home/cs17d15t cs17d15@192.168.0.30:/home/cs17d15. cs17d15@192.168.0.30:/home/cs17d15t cs17d15@192.168.0.30:/home/cs17d15x cs17d15@192.168.0.30:/home/cs17d15t cs17d15@192.168.0.30:/home/cs17d15[C cs17d15@192.168.0.30:/home/cs17d15
+.
+              |
+.  .    . .-. | .-..-. .--.--. .-.
+ \  \  / (.-' |(  (   )|  |  |(.-'
+  `' `'   `--'` `-'`-' '  '  ` `--'
+cs17d15@192.168.0.30's password: 
+result.txt
+
+sent 84 bytes  received 149 bytes  42.36 bytes/sec
+total size is 12.70K  speedup is 54.51
+]0;s4d1@tpc-Veriton-Series: ~[01;32ms4d1@tpc-Veriton-Series[00m:[01;34m~[00m$ exit
+exit
+
+Script done on 2019-04-04 10:37:40+0530
