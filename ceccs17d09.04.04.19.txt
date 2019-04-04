@@ -1,5 +1,5 @@
 Script started on 2019-04-04 10:12:20+0530
-]0;s4d1@tpc-Veriton-Series: ~[01;32ms4d1@tpc-Veriton-Series[00m:[01;34m~[00m$ script ceccs17d09.04.04.1920.04.04.19[2Pp cs17d15@192.168.0.30[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[Kls
+]0;s4d1@tpc-Veriton-Series: ~[01;32ms4d1@tpc-Veriton-Series[00m:[01;34m~[00m$ script ceccs17d15.04.04.1920.04.04.19[2Pp cs17d15@192.168.0.30[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[Kls
 abc.txt                  cgpa.txt              result1.txt     roll7.txt
 ami.txt                  cs17d02@192.168.0.30  result2.txt     roll8.txt
 athi.txt                 dbatch.txt            result_CHN.txt  roll9.txt
@@ -23,7 +23,9 @@ ceccs17d20.04.04.19      result1.pdf           roll6.txt
  \  \  / (.-' |(  (   )|  |  |(.-'
   `' `'   `--'` `-'`-' '  '  ` `--'
 cs17d15@192.168.0.30's password: 
-result.txt                                      0%    0     0.0KB/s   --:-- ETAresult.txt                                    100%   12KB 577.0KB/s   00:00    
+
+result.txt                                      0%    0     0.0KB/s   --:-- ETA
+result.txt                                    100%   12KB 577.0KB/s   00:00    
 ]0;s4d1@tpc-Veriton-Series: ~[01;32ms4d1@tpc-Veriton-Series[00m:[01;34m~[00m$ sftp cs17d15@192.168.0.30
 .
               |
@@ -36,7 +38,8 @@ sftp> ls
 examples.desktop    me.txt              result.txt          result1.txt         
 sgpa.txt            test.txt            
 sftp> exit
-]0;s4d1@tpc-Veriton-Series: ~[01;32ms4d1@tpc-Veriton-Series[00m:[01;34m~[00m$ scp cs17d15@192.168.0.30:/home/cs17d15/[K]0;s4d1@tpc-Veriton-Series: ~[01;32ms4d1@tpc-Veriton-Series[00m:[01;34m~[00m$ scp cs17d15@192.168.0.30:/home/cs17d15/me.txt/home/s4d1
+]0;s4d1@tpc-Veriton-Series: ~[01;32ms4d1@tpc-Veriton-Series[00m:[01;34m~[00m$ scp cs17d15@192.168.0.30:/home/cs17d15/
+[K]0;s4d1@tpc-Veriton-Series: ~[01;32ms4d1@tpc-Veriton-Series[00m:[01;34m~[00m$ scp cs17d15@192.168.0.30:/home/cs17d15/me.txt/home/s4d1
 usage: scp [-346BCpqrv] [-c cipher] [-F ssh_config] [-i identity_file]
            [-l limit] [-o ssh_option] [-P port] [-S program]
            [[user@]host1:]file1 ... [[user@]host2:]file2
@@ -47,7 +50,9 @@ usage: scp [-346BCpqrv] [-c cipher] [-F ssh_config] [-i identity_file]
  \  \  / (.-' |(  (   )|  |  |(.-'
   `' `'   `--'` `-'`-' '  '  ` `--'
 cs17d15@192.168.0.30's password: 
-me.txt                                                                                                        0%    0     0.0KB/s   --:-- ETAme.txt                                                                                                      100%   14    16.1KB/s   00:00    
+
+me.txt                                                                                                        0%    0     0.0KB/s   --:-- ETA
+me.txt                                                                                                      100%   14    16.1KB/s   00:00    
 ]0;s4d1@tpc-Veriton-Series: ~[01;32ms4d1@tpc-Veriton-Series[00m:[01;34m~[00m$ ls
 abc.txt                  ceccs17d09.04.04.19      cgpa.txt              [0m[01;34mMusic[0m     result1.pdf     resu.txt    roll6.txt    s2sgpa.txt
 ami.txt                  ceccs17d09.04.04.19.txt  cs17d02@192.168.0.30  oo.txt    result1.txt     roll        roll7.txt    sgpas2.txt
