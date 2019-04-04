@@ -1,0 +1,64 @@
+Script started on 2019-04-04 09:43:25+0530
+]0;s4d1@tpc-Veriton-Series: ~[01;32ms4d1@tpc-Veriton-Series[00m:[01;34m~[00m$ scp cs17d15@192.168.0.30:/home/cs17d15/me.txt/home/cecc[A]0;s4d1@tpc-Veriton-Series: ~[01;32ms4d1@tpc-Veriton-Series[00m:[01;34m~[00m$ [C[29Psh cs17d15@192.168.0.30
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+.
+              |
+.  .    . .-. | .-..-. .--.--. .-.
+ \  \  / (.-' |(  (   )|  |  |(.-'
+  `' `'   `--'` `-'`-' '  '  ` `--'
+cs17d15@192.168.0.30's password: 
+Welcome to elementary OS 0.4.1 Loki (GNU/Linux 4.13.0-32-generic x86_64)
+
+ * Website:  http://elementary.io/
+
+278 packages can be updated.
+0 updates are security updates.
+
+Last login: Thu Apr  4 09:35:53 2019 from 192.168.0.235
+$ ls
+examples.desktop  me.txt  result.txt  sgpa.txt	test.txt
+$ cat me.txt
+athira suresh
+$ du
+4	./.cache
+40	./.config/plank/dock1/launchers
+44	./.config/plank/dock1
+48	./.config/plank
+52	./.config
+8	./.ssh
+104	.
+$ cat > n result1.txt
+CHN17CS001 6.48
+CHN17CS0002 7.00
+^[[A    CHNCS     CHN17CS003 5.67
+CHN17CS0034  4 8.2
+CHN17CS005 8.3
+^Z[1] + Stopped                    cat 1>result1.txt
+$ C cat me.txt
+athira suresh
+$ cta  at reult1.txt
+cat: reult1.txt: No such file or directory
+$ cta  at result1.txt
+CHN17CS001 6.48
+CHN17CS0002 7.00
+CHN17CS003 5.67
+CHN17CS004 8.2
+CHN17CS005 8.3
+$ ls
+examples.desktop  me.txt  result1.txt  result.txt  sgpa.txt  test.txt
+$ du
+4	./.cache
+40	./.config/plank/dock1/launchers
+44	./.config/plank/dock1
+48	./.config/plank
+52	./.config
+8	./.ssh
+108	.
+$ exit
+You have stopped jobs.
+$ exit
+Connection to 192.168.0.30 closed.
+]0;s4d1@tpc-Veriton-Series: ~[01;32ms4d1@tpc-Veriton-Series[00m:[01;34m~[00m$ exit
+exit
+
+Script done on 2019-04-04 09:48:56+0530
