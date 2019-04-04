@@ -1,0 +1,63 @@
+Script started on 2019-04-04 10:12:20+0530
+]0;s4d1@tpc-Veriton-Series: ~[01;32ms4d1@tpc-Veriton-Series[00m:[01;34m~[00m$ script ceccs17d09.04.04.1920.04.04.19[2Pp cs17d15@192.168.0.30[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[Kls
+abc.txt                  cgpa.txt              result1.txt     roll7.txt
+ami.txt                  cs17d02@192.168.0.30  result2.txt     roll8.txt
+athi.txt                 dbatch.txt            result_CHN.txt  roll9.txt
+a.txt                    [0m[01;34mDesktop[0m               Result_CHN.txt  s1final.txt
+b.txt                    [01;34mDocuments[0m             result_CS.txt   s1_s2.txt
+ceccs17d05.04.02.19.txt  [01;34mDownloads[0m             results2.txt    s1sgpa.txt
+ceccs17d05.11.02.19      final_cgpa.txt        result.txt      s2final.txt
+ceccs17d05.25.02.19      [01;34mMusic[0m                 resu.txt        s2sgpa.txt
+ceccs17d09.04.04.19      oo.txt                roll            sgpas2.txt
+ceccs17d09.04.04.19.txt  [01;34mPictures[0m              roll10.txt      sgpa.txt
+ceccs17d15.04.02.19.txt  [01;34mPublic[0m                roll1.txt       [01;32mtask1.sh[0m
+ceccs17d15.04.04.19      reg1.txt              roll2.txt       task5.txt
+ceccs17d15.11.02.19      reg2.txt              roll3.txt       [01;34mTemplates[0m
+ceccs17d15.11.03.19      reg.txt               roll4.txt       [01;34mVideos[0m
+ceccs17d15.25.02.19      res.txt               roll5.txt       [01;36mz.txt[0m
+ceccs17d20.04.04.19      result1.pdf           roll6.txt
+]0;s4d1@tpc-Veriton-Series: ~[01;32ms4d1@tpc-Veriton-Series[00m:[01;34m~[00m$ scp result.txt cs17d15@192.168.0.30:[K :[K[K:/home/cs17d15
+.
+              |
+.  .    . .-. | .-..-. .--.--. .-.
+ \  \  / (.-' |(  (   )|  |  |(.-'
+  `' `'   `--'` `-'`-' '  '  ` `--'
+cs17d15@192.168.0.30's password: 
+result.txt                                      0%    0     0.0KB/s   --:-- ETAresult.txt                                    100%   12KB 577.0KB/s   00:00    
+]0;s4d1@tpc-Veriton-Series: ~[01;32ms4d1@tpc-Veriton-Series[00m:[01;34m~[00m$ sftp cs17d15@192.168.0.30
+.
+              |
+.  .    . .-. | .-..-. .--.--. .-.
+ \  \  / (.-' |(  (   )|  |  |(.-'
+  `' `'   `--'` `-'`-' '  '  ` `--'
+cs17d15@192.168.0.30's password: 
+Connected to 192.168.0.30.
+sftp> ls
+examples.desktop    me.txt              result.txt          result1.txt         
+sgpa.txt            test.txt            
+sftp> exit
+]0;s4d1@tpc-Veriton-Series: ~[01;32ms4d1@tpc-Veriton-Series[00m:[01;34m~[00m$ scp cs17d15@192.168.0.30:/home/cs17d15/[K]0;s4d1@tpc-Veriton-Series: ~[01;32ms4d1@tpc-Veriton-Series[00m:[01;34m~[00m$ scp cs17d15@192.168.0.30:/home/cs17d15/me.txt/home/s4d1
+usage: scp [-346BCpqrv] [-c cipher] [-F ssh_config] [-i identity_file]
+           [-l limit] [-o ssh_option] [-P port] [-S program]
+           [[user@]host1:]file1 ... [[user@]host2:]file2
+]0;s4d1@tpc-Veriton-Series: ~[01;32ms4d1@tpc-Veriton-Series[00m:[01;34m~[00m$ scp cs17d15@192.168.0.30:/home/cs17d15/me.txt/home/s4d1 /home/s4d1
+.
+              |
+.  .    . .-. | .-..-. .--.--. .-.
+ \  \  / (.-' |(  (   )|  |  |(.-'
+  `' `'   `--'` `-'`-' '  '  ` `--'
+cs17d15@192.168.0.30's password: 
+me.txt                                                                                                        0%    0     0.0KB/s   --:-- ETAme.txt                                                                                                      100%   14    16.1KB/s   00:00    
+]0;s4d1@tpc-Veriton-Series: ~[01;32ms4d1@tpc-Veriton-Series[00m:[01;34m~[00m$ ls
+abc.txt                  ceccs17d09.04.04.19      cgpa.txt              [0m[01;34mMusic[0m     result1.pdf     resu.txt    roll6.txt    s2sgpa.txt
+ami.txt                  ceccs17d09.04.04.19.txt  cs17d02@192.168.0.30  oo.txt    result1.txt     roll        roll7.txt    sgpas2.txt
+athi.txt                 ceccs17d15.04.02.19.txt  dbatch.txt            [01;34mPictures[0m  result2.txt     roll10.txt  roll8.txt    sgpa.txt
+a.txt                    ceccs17d15.04.04.19      [01;34mDesktop[0m               [01;34mPublic[0m    result_CHN.txt  roll1.txt   roll9.txt    [01;32mtask1.sh[0m
+b.txt                    ceccs17d15.11.02.19      [01;34mDocuments[0m             reg1.txt  Result_CHN.txt  roll2.txt   s1final.txt  task5.txt
+ceccs17d05.04.02.19.txt  ceccs17d15.11.03.19      [01;34mDownloads[0m             reg2.txt  result_CS.txt   roll3.txt   s1_s2.txt    [01;34mTemplates[0m
+ceccs17d05.11.02.19      ceccs17d15.25.02.19      final_cgpa.txt        reg.txt   results2.txt    roll4.txt   s1sgpa.txt   [01;34mVideos[0m
+ceccs17d05.25.02.19      ceccs17d20.04.04.19      me.txt                res.txt   result.txt      roll5.txt   s2final.txt  [01;36mz.txt[0m
+]0;s4d1@tpc-Veriton-Series: ~[01;32ms4d1@tpc-Veriton-Series[00m:[01;34m~[00m$ exit
+exit
+
+Script done on 2019-04-04 10:28:38+0530
