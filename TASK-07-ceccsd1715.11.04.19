@@ -1,0 +1,59 @@
+Script started on 2019-04-11 10:55:08+0530
+]0;tpc@tpc-Veriton-Series: ~[01;32mtpc@tpc-Veriton-Series[00m:[01;34m~[00m$ sudo apt-get install vsftpd
+[sudo] password for tpc: 
+Reading package lists... 0%Reading package lists... 100%Reading package lists... Done
+Building dependency tree... 0%Building dependency tree... 0%Building dependency tree... 50%Building dependency tree... 50%Building dependency tree       
+Reading state information... 0%Reading state information... 1%Reading state information... Done
+vsftpd is already the newest version (3.0.3-9build1).
+0 upgraded, 0 newly installed, 0 to remove and 21 not upgraded.
+]0;tpc@tpc-Veriton-Series: ~[01;32mtpc@tpc-Veriton-Series[00m:[01;34m~[00m$ ftp locl[Kalhost
+Connected to localhost.
+220 (vsFTPd 3.0.3)
+Name (localhost:tpc): tpc
+331 Please specify the password.
+Password:
+230 Login successful.
+Remote system type is UNIX.
+Using binary mode to transfer files.
+ftp> ls
+200 PORT command successful. Consider using PASV.
+150 Here comes the directory listing.
+drwxr-xr-x    2 1000     1000         4096 Oct 16 23:29 20
+drwxr-xr-x    2 1000     1000         4096 Oct 31 02:57 Desktop
+drwxr-xr-x    3 1000     1000         4096 Mar 30 11:41 Documents
+drwxr-xr-x    2 1000     1000         4096 Oct 13 13:49 Downloads
+drwxr-xr-x    2 1000     1000         4096 Oct 13 13:49 Music
+drwxr-xr-x    2 1000     1000         4096 Apr 11 09:56 Pictures
+drwxr-xr-x    2 1000     1000         4096 Oct 13 13:49 Public
+-rw-r--r--    1 1000     1000         8192 Apr 11 09:49 TASK-07-ceccs17d15.10.04.19
+-rw-r--r--    1 1000     1000            0 Apr 11 10:33 TASK-07-ceccsd1715.10.04.19
+-rw-r--r--    1 1000     1000            0 Apr 11 10:55 TASK-07-ceccsd1715.11.04.19
+drwxr-xr-x    2 1000     1000         4096 Oct 13 13:49 Templates
+drwxr-xr-x    2 1000     1000         4096 Oct 13 13:49 Videos
+-rwxr-xr-x    1 1000     1000         8304 Oct 13 22:03 hello
+-rw-r--r--    1 1000     1000           51 Oct 13 22:03 hello.c
+-rw-r--r--    1 1000     1000         1988 Apr 01 10:35 images.jpg
+drwxr-xr-x    2 1000     1000         4096 Nov 15 03:19 kh
+-rw-r--r--    1 1000     1000            0 Mar 18 12:04 lan.txt
+-rw-r--r--    1 1000     1000          613 Mar 15 01:14 output1.txt
+-rw-rw-r--    1 1000     1000        11830 Apr 01 10:43 package1.txt
+-rw-rw-r--    1 1000     1000        24576 Apr 01 10:39 pckgmng
+-rwxr-xr-x    1 1000     1000         8400 Oct 14 00:13 pr
+-rw-r--r--    1 1000     1000          219 Oct 14 00:13 pr.c
+-rwxr-xr-x    1 1000     1000         8408 Oct 14 00:08 prgm1
+-rw-r--r--    1 1000     1000          248 Oct 14 00:07 prgm1.c
+-rw-r--r--    1 1000     1000          279 Oct 26 03:48 prime.py
+-rw-r--r--    1 1000     1000          125 Oct 26 04:04 sum.py
+drwxr-xr-x    2 1000     1000         4096 Nov 08 23:24 sus
+-rw-rw-r--    1 1000     1000          178 Apr 01 10:38 typescript
+226 Directory send OK.
+ftp> pwd
+257 "/home/tpc" is the current directory
+ftp> cd Desktop
+250 Directory successfully changed.
+ftp> exit
+221 Goodbye.
+]0;tpc@tpc-Veriton-Series: ~[01;32mtpc@tpc-Veriton-Series[00m:[01;34m~[00m$ exit
+exit
+
+Script done on 2019-04-11 10:57:25+0530
