@@ -1,0 +1,230 @@
+Script started on 2019-04-29 11:16:05+0530
+]0;tpc@tpc-Veriton-Series: ~[01;32mtpc@tpc-Veriton-Series[00m:[01;34m~[00m$ sudo ufw app info "WWW Full "[1P"systemct1 enable apache2[9Papt install ufw[3Pufw app list[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[Ksudo apt update
+[sudo] password for tpc: 
+[33m0% [Working][0m            Hit:1 http://packages.microsoft.com/repos/vscode stable InRelease
+[33m0% [Waiting for headers] [Waiting for headers][0m[33m0% [1 InRelease gpgv 3,182 B] [Waiting for headers] [Waiting for headers][0m                                                                         Get:2 http://security.ubuntu.com/ubuntu bionic-security InRelease [88.7 kB]
+[33m0% [1 InRelease gpgv 3,182 B] [Waiting for headers] [2 InRelease 0 B/88.7 kB 0%][0m                                                                                Hit:3 http://in.archive.ubuntu.com/ubuntu bionic InRelease
+[33m                                                                                0% [1 InRelease gpgv 3,182 B] [2 InRelease 11.2 kB/88.7 kB 13%][0m[33m                                                               0% [Waiting for headers] [2 InRelease 14.1 kB/88.7 kB 16%][0m[33m0% [3 InRelease gpgv 242 kB] [Waiting for headers] [2 InRelease 14.1 kB/88.7 kB 16%][0m[33m                                                                                    0% [Waiting for headers] [2 InRelease 14.1 kB/88.7 kB 16%][0m                                                          Get:4 http://in.archive.ubuntu.com/ubuntu bionic-updates InRelease [88.7 kB]
+[33m0% [4 InRelease 0 B/88.7 kB 0%] [2 InRelease 21.4 kB/88.7 kB 24%][0m[33m0% [4 InRelease 38.7 kB/88.7 kB 44%] [2 InRelease 67.7 kB/88.7 kB 76%][0m[33m                                                                      0% [4 InRelease 59.0 kB/88.7 kB 67%][0m[33m0% [2 InRelease gpgv 88.7 kB] [4 InRelease 59.0 kB/88.7 kB 67%][0m[33m                                                               0% [4 InRelease 67.7 kB/88.7 kB 76%][0m[33m                                    0% [Working][0m[33m0% [4 InRelease gpgv 88.7 kB] [Waiting for headers][0m[33m                                                   0% [Waiting for headers][0m                        Get:5 http://in.archive.ubuntu.com/ubuntu bionic-backports InRelease [74.6 kB]
+[33m0% [5 InRelease 1,448 B/74.6 kB 2%][0m[33m                                   0% [Working][0m[33m0% [5 InRelease gpgv 74.6 kB][0m[33m                             100% [Working][0m              Fetched 252 kB in 2s (111 kB/s)
+Reading package lists... 0%Reading package lists... 0%Reading package lists... 0%Reading package lists... 3%Reading package lists... 3%Reading package lists... 6%Reading package lists... 6%Reading package lists... 8%Reading package lists... 8%Reading package lists... 8%Reading package lists... 8%Reading package lists... 8%Reading package lists... 8%Reading package lists... 8%Reading package lists... 8%Reading package lists... 29%Reading package lists... 36%Reading package lists... 36%Reading package lists... 63%Reading package lists... 63%Reading package lists... 64%Reading package lists... 78%Reading package lists... 78%Reading package lists... 78%Reading package lists... 78%Reading package lists... 79%Reading package lists... 79%Reading package lists... 79%Reading package lists... 79%Reading package lists... 81%Reading package lists... 81%Reading package lists... 83%Reading package lists... 83%Reading package lists... 84%Reading package lists... 84%Reading package lists... 84%Reading package lists... 84%Reading package lists... 85%Reading package lists... 85%Reading package lists... 85%Reading package lists... 85%Reading package lists... 88%Reading package lists... 88%Reading package lists... 92%Reading package lists... 92%Reading package lists... 93%Reading package lists... 93%Reading package lists... 93%Reading package lists... 93%Reading package lists... 93%Reading package lists... 93%Reading package lists... 93%Reading package lists... 93%Reading package lists... 93%Reading package lists... 93%Reading package lists... 93%Reading package lists... 93%Reading package lists... 93%Reading package lists... 93%Reading package lists... 93%Reading package lists... 93%Reading package lists... 93%Reading package lists... 93%Reading package lists... 93%Reading package lists... 93%Reading package lists... 94%Reading package lists... 94%Reading package lists... 94%Reading package lists... 95%Reading package lists... 95%Reading package lists... 96%Reading package lists... 96%Reading package lists... 96%Reading package lists... 96%Reading package lists... 96%Reading package lists... 96%Reading package lists... 96%Reading package lists... 96%Reading package lists... 97%Reading package lists... 97%Reading package lists... 98%Reading package lists... 98%Reading package lists... 98%Reading package lists... 98%Reading package lists... 98%Reading package lists... 98%Reading package lists... 98%Reading package lists... 98%Reading package lists... 98%Reading package lists... 98%Reading package lists... 99%Reading package lists... 99%Reading package lists... Done
+Building dependency tree... 0%Building dependency tree... 0%Building dependency tree... 0%Building dependency tree... 50%Building dependency tree... 50%Building dependency tree       
+Reading state information... 0%Reading state information... 0%Reading state information... Done
+68 packages can be upgraded. Run 'apt list --upgradable' to see them.
+]0;tpc@tpc-Veriton-Series: ~[01;32mtpc@tpc-Veriton-Series[00m:[01;34m~[00m$ sudo apt install apache2
+Reading package lists... 0%Reading package lists... 100%Reading package lists... Done
+Building dependency tree... 0%Building dependency tree... 0%Building dependency tree... 50%Building dependency tree... 50%Building dependency tree       
+Reading state information... 0%Reading state information... 0%Reading state information... Done
+apache2 is already the newest version (2.4.29-1ubuntu4.6).
+0 upgraded, 0 newly installed, 0 to remove and 68 not upgraded.
+]0;tpc@tpc-Veriton-Series: ~[01;32mtpc@tpc-Veriton-Series[00m:[01;34m~[00m$ sudo systemctl enable apache2
+Synchronizing state of apache2.service with SysV service script with /lib/systemd/systemd-sysv-install.
+Executing: /lib/systemd/systemd-sysv-install enable apache2
+]0;tpc@tpc-Veriton-Series: ~[01;32mtpc@tpc-Veriton-Series[00m:[01;34m~[00m$ sudo apt-get install mariadb-server mariadb-client
+Reading package lists... 0%Reading package lists... 100%Reading package lists... Done
+Building dependency tree... 0%Building dependency tree... 0%Building dependency tree... 50%Building dependency tree... 50%Building dependency tree       
+Reading state information... 0%Reading state information... 0%Reading state information... Done
+mariadb-client is already the newest version (1:10.1.38-0ubuntu0.18.04.1).
+mariadb-server is already the newest version (1:10.1.38-0ubuntu0.18.04.1).
+0 upgraded, 0 newly installed, 0 to remove and 68 not upgraded.
+]0;tpc@tpc-Veriton-Series: ~[01;32mtpc@tpc-Veriton-Series[00m:[01;34m~[00m$ sudo mysql_secure_installation
+
+NOTE: RUNNING ALL PARTS OF THIS SCRIPT IS RECOMMENDED FOR ALL MariaDB
+      SERVERS IN PRODUCTION USE!  PLEASE READ EACH STEP CAREFULLY!
+
+In order to log into MariaDB to secure it, we'll need the current
+password for the root user.  If you've just installed MariaDB, and
+you haven't set the root password yet, the password will be blank,
+so you should just press enter here.
+
+Enter current password for root (enter for none): 
+OK, successfully used password, moving on...
+
+Setting the root password ensures that nobody can log into the MariaDB
+root user without the proper authorisation.
+
+You already have a root password set, so you can safely answer 'n'.
+
+Change the root password? [Y/n] n
+ ... skipping.
+
+By default, a MariaDB installation has an anonymous user, allowing anyone
+to log into MariaDB without having to have a user account created for
+them.  This is intended only for testing, and to make the installation
+go a bit smoother.  You should remove them before moving into a
+production environment.
+
+Remove anonymous users? [Y/n] n
+ ... skipping.
+
+Normally, root should only be allowed to connect from 'localhost'.  This
+ensures that someone cannot guess at the root password from the network.
+
+Disallow root login remotely? [Y/n] n
+ ... skipping.
+
+By default, MariaDB comes with a database named 'test' that anyone can
+access.  This is also intended only for testing, and should be removed
+before moving into a production environment.
+
+Remove test database and access to it? [Y/n] n
+ ... skipping.
+
+Reloading the privilege tables will ensure that all changes made so far
+will take effect immediately.
+
+Reload privilege tables now? [Y/n] n
+ ... skipping.
+
+Cleaning up...
+
+All done!  If you've completed all of the above steps, your MariaDB
+installation should now be secure.
+
+Thanks for using MariaDB!
+]0;tpc@tpc-Veriton-Series: ~[01;32mtpc@tpc-Veriton-Series[00m:[01;34m~[00m$ sudo mysql -u root -p
+Enter password: 
+(B[0;1mWelcome to the MariaDB monitor.  Commands end with ; or \g.
+(B[m(B[0;1mYour MariaDB connection id is 45
+Server version: 10.1.38-MariaDB-0ubuntu0.18.04.1 Ubuntu 18.04
+
+(B[m(B[0;1mCopyright (c) 2000, 2018, Oracle, MariaDB Corporation Ab and others.
+
+(B[m(B[0;1mType 'help;' or '\h' for help. Type '\c' to clear the current input statement.
+
+(B[m[?1034hMariaDB [(none)]> exit
+(B[0;1mBye
+(B[m]0;tpc@tpc-Veriton-Series: ~[01;32mtpc@tpc-Veriton-Series[00m:[01;34m~[00m$ sudo apt-get install software-properties-common
+Reading package lists... 0%Reading package lists... 100%Reading package lists... Done
+Building dependency tree... 0%Building dependency tree... 0%Building dependency tree... 50%Building dependency tree... 50%Building dependency tree       
+Reading state information... 0%Reading state information... 0%Reading state information... Done
+software-properties-common is already the newest version (0.96.24.32.7).
+0 upgraded, 0 newly installed, 0 to remove and 68 not upgraded.
+]0;tpc@tpc-Veriton-Series: ~[01;32mtpc@tpc-Veriton-Series[00m:[01;34m~[00m$ sudo add-apt-repository ppa:ondrej/php
+Cannot add PPA: 'ppa:~ondrej/ubuntu/php'.
+ERROR: '~ondrej' user or team does not exist.
+]0;tpc@tpc-Veriton-Series: ~[01;32mtpc@tpc-Veriton-Series[00m:[01;34m~[00m$ sudo add-apt-repository ppa:ondrej/php[1@-[1@E[1@ 
+Cannot add PPA: 'ppa:~ondrej/ubuntu/php'.
+ERROR: '~ondrej' user or team does not exist.
+]0;tpc@tpc-Veriton-Series: ~[01;32mtpc@tpc-Veriton-Series[00m:[01;34m~[00m$ sudo apt install php7.2 libapache2-mod-php7.2 php7.2-common php7.2-mbstring php7.2-xmlrpc php7.2-soap php7.2-gd php7..2-xml php7.2-intl php7.2-mysql php7.2-cli php7.2-zip php7.2-curl
+Reading package lists... 0%Reading package lists... 100%Reading package lists... Done
+Building dependency tree... 0%Building dependency tree... 0%Building dependency tree... 50%Building dependency tree... 50%Building dependency tree       
+Reading state information... 0%Reading state information... 0%Reading state information... Done
+libapache2-mod-php7.2 is already the newest version (7.2.17-0ubuntu0.18.04.1).
+php7.2 is already the newest version (7.2.17-0ubuntu0.18.04.1).
+php7.2-cli is already the newest version (7.2.17-0ubuntu0.18.04.1).
+php7.2-common is already the newest version (7.2.17-0ubuntu0.18.04.1).
+php7.2-curl is already the newest version (7.2.17-0ubuntu0.18.04.1).
+php7.2-gd is already the newest version (7.2.17-0ubuntu0.18.04.1).
+php7.2-mysql is already the newest version (7.2.17-0ubuntu0.18.04.1).
+php7.2-xml is already the newest version (7.2.17-0ubuntu0.18.04.1).
+php7.2-xmlrpc is already the newest version (7.2.17-0ubuntu0.18.04.1).
+php7.2-intl is already the newest version (7.2.17-0ubuntu0.18.04.1).
+php7.2-mbstring is already the newest version (7.2.17-0ubuntu0.18.04.1).
+php7.2-soap is already the newest version (7.2.17-0ubuntu0.18.04.1).
+php7.2-zip is already the newest version (7.2.17-0ubuntu0.18.04.1).
+0 upgraded, 0 newly installed, 0 to remove and 68 not upgraded.
+]0;tpc@tpc-Veriton-Series: ~[01;32mtpc@tpc-Veriton-Series[00m:[01;34m~[00m$ sudo nano /var/www/html/index.php
+[?1049h[22;0;0t[1;36r(B[m[4l[?7h[39;49m[?1h=[?1h=[?1h=[?25l[39;49m(B[m[H[2J[34;64H(B[0;7m[ Reading File ](B[m[34;63H(B[0;7m[ Read 12 lines ](B[m[H(B[0;7m  GNU nano 2.9.3                                              /var/www/html/index.php                                                         [1;141H(B[m[35d(B[0;7m^G(B[m Get Help    (B[0;7m^O(B[m Write Out   (B[0;7m^W(B[m Where Is    (B[0;7m^K(B[m Cut Text    (B[0;7m^J(B[m Justify     (B[0;7m^C(B[m Cur Pos     (B[0;7mM-U(B[m Undo[106G(B[0;7mM-A(B[m Mark Text  (B[0;7mM-](B[m To Bracket[36d(B[0;7m^X(B[m Exit[36;16H(B[0;7m^R(B[m Read File   (B[0;7m^\(B[m Replace     (B[0;7m^U(B[m Uncut Text  (B[0;7m^T(B[m To Spell    (B[0;7m^_(B[m Go To Line  (B[0;7mM-E(B[m Redo[106G(B[0;7mM-6(B[m Copy Text  (B[0;7mM-W(B[m WhereIs Next[34d[3;2H[39;49m(B[m<!DOCTYPE html>[4d<html>[5d<body>[7d<h1>My first PHP page</h1>[9d(B[0;1m[32m<?php[10d[36mecho[39m(B[m (B[0;1m[33m"Hello World!"[39m(B[m;[11d(B[0;1m[32m?>[13d[39m(B[m</body>[14d</html>[42m [3d[49m(B[m[?12l[?25h[?25l[1;133H(B[0;7mModified(B[m[3da <!DOCTYPE html>a[?12l[?25h[?25laa <!DOCTYPE html>aa[?12l[?25h[?25lt <!DOCTYPE html>aat[?12l[?25h[?25l[1P[?12l[?25h[?25l[1Pa[?12l[?25h[?25l[1P[?12l[?25h[?25l[7d[?12l[?25h[?25l[11d[?12l[?25h[?25l[15d[?12l[?25h[?25l[1;141H[1;133H(B[0;7m        (B[m[34;65H(B[0;7mWrote 12 lines ](B[m[15d[?12l[?25h[?25l[34d[J[36;142H[?12l[?25h[36;1H[?1049l[23;0;0t[?1l>]0;tpc@tpc-Veriton-Series: ~[01;32mtpc@tpc-Veriton-Series[00m:[01;34m~[00m$ ufw app --list
+ERROR: Invalid syntax
+
+Usage: ufw COMMAND
+
+Commands:
+ enable                          enables the firewall
+ disable                         disables the firewall
+ default ARG                     set default policy
+ logging LEVEL                   set logging to LEVEL
+ allow ARGS                      add allow rule
+ deny ARGS                       add deny rule
+ reject ARGS                     add reject rule
+ limit ARGS                      add limit rule
+ delete RULE|NUM                 delete RULE
+ insert NUM RULE                 insert RULE at NUM
+ route RULE                      add route RULE
+ route delete RULE|NUM           delete route RULE
+ route insert NUM RULE           insert route RULE at NUM
+ reload                          reload firewall
+ reset                           reset firewall
+ status                          show firewall status
+ status numbered                 show firewall status as numbered list of RULES
+ status verbose                  show verbose firewall status
+ show ARG                        show firewall report
+ version                         display version information
+
+Application profile commands:
+ app list                        list application profiles
+ app info PROFILE                show information on PROFILE
+ app update PROFILE              update PROFILE
+ app default ARG                 set default application policy
+
+]0;tpc@tpc-Veriton-Series: ~[01;32mtpc@tpc-Veriton-Series[00m:[01;34m~[00m$ ufw app --list[1Plist[1Plist[1Plist list[1@s[C[1@u[1@d[1@o[1@ 
+\Available applications:
+  Apache
+  Apache Full
+  Apache Secure
+  CUPS
+  Nginx Full
+  Nginx HTTP
+  Nginx HTTPS
+]0;tpc@tpc-Veriton-Series: ~[01;32mtpc@tpc-Veriton-Series[00m:[01;34m~[00m$ \[Ksudo ufw allo [Kw 'Apache FU[Ki[Kull'
+Rules updated
+Rules updated (v6)
+]0;tpc@tpc-Veriton-Series: ~[01;32mtpc@tpc-Veriton-Series[00m:[01;34m~[00m$ sudo systemctl status apache2
+[?1h=[0;1;31m●[0m apache2.service - The Apache HTTP Server[m
+   Loaded: loaded (/lib/systemd/system/apache2.service; enabled; vendor preset: enabled)[m
+  Drop-In: /lib/systemd/system/apache2.service.d[m
+           └─apache2-systemd.conf[m
+   Active: [0;1;31mfailed[0m (Result: exit-code) since Mon 2019-04-29 11:15:44 IST; 22min ago[m
+[m
+Apr 29 11:15:44 tpc-Veriton-Series apachectl[25225]: AH00558: apache2: Could not reliably determine the server's fully qualified domain name, [m
+Apr 29 11:15:44 tpc-Veriton-Series apachectl[25225]: (98)Address already in use: AH00072: make_sock: could not bind to address [::]:80[m
+Apr 29 11:15:44 tpc-Veriton-Series apachectl[25225]: (98)Address already in use: AH00072: make_sock: could not bind to address 0.0.0.0:80[m
+Apr 29 11:15:44 tpc-Veriton-Series apachectl[25225]: no listening sockets available, shutting down[m
+Apr 29 11:15:44 tpc-Veriton-Series apachectl[25225]: AH00015: Unable to open logs[m
+Apr 29 11:15:44 tpc-Veriton-Series systemd[1]: [0;1;39m[0;1;31m[0;1;39mapache2.service: Control process exited, code=exited status=1[0m[m
+Apr 29 11:15:44 tpc-Veriton-Series apachectl[25225]: Action 'start' failed.[m
+Apr 29 11:15:44 tpc-Veriton-Series apachectl[25225]: The Apache error log may have more information.[m
+Apr 29 11:15:44 tpc-Veriton-Series systemd[1]: [0;1;39m[0;1;31m[0;1;39mapache2.service: Failed with result 'exit-code'.[0m[m
+Apr 29 11:15:44 tpc-Veriton-Series systemd[1]: [0;1;31m[0;1;39m[0;1;31mFailed to start The Apache HTTP Server.[0m[m
+[7mlines 1-16/16 (END)[27m[K[K-[Klog file: [Kuu[Kdd[Koo[K[K[K[K[7mlines 1-16/16 (END)[27m[K[K-[Klog file: [K[?1l>
+]0;tpc@tpc-Veriton-Series: ~[01;32mtpc@tpc-Veriton-Series[00m:[01;34m~[00m$ sd[Kudo systemctl disable ni[Kginx
+Synchronizing state of nginx.service with SysV service script with /lib/systemd/systemd-sysv-install.
+Executing: /lib/systemd/systemd-sysv-install disable nginx
+]0;tpc@tpc-Veriton-Series: ~[01;32mtpc@tpc-Veriton-Series[00m:[01;34m~[00m$ sudo systemctl disable nginxstatus apache2[1Pdisable nginx[C[1P nginx[1P nginx[1P nginx[1P nginx[1P nginx[1P nginx[1P nginxs nginxt nginxo nginxp nginx
+]0;tpc@tpc-Veriton-Series: ~[01;32mtpc@tpc-Veriton-Series[00m:[01;34m~[00m$ sudo systemctl stop nginx[C[C[C[C[C[C[K[K[K[K[K[K[K[K[K[Kstart apache2
+]0;tpc@tpc-Veriton-Series: ~[01;32mtpc@tpc-Veriton-Series[00m:[01;34m~[00m$ sudo systemctl start apache2[3Pop nginx[3@disable[C[C[C[C[C[Cstatus apache2[1Pufw allow 'Apache Full'[11Ppp listllow 'Apache Full'systemctl status apache2
+[?1h=[0;1;32m●[0m apache2.service - The Apache HTTP Server[m
+   Loaded: loaded (/lib/systemd/system/apache2.service; enabled; vendor preset: enabled)[m
+  Drop-In: /lib/systemd/system/apache2.service.d[m
+           └─apache2-systemd.conf[m
+   Active: [0;1;32mactive (running)[0m since Mon 2019-04-29 11:39:13 IST; 4s ago[m
+  Process: 26384 ExecStart=/usr/sbin/apachectl start (code=exited, status=0/SUCCESS)[m
+ Main PID: 26388 (apache2)[m
+    Tasks: 6 (limit: 2179)[m
+   CGroup: /system.slice/apache2.service[m
+           ├─26388 /usr/sbin/apache2 -k start[m
+           ├─26389 /usr/sbin/apache2 -k start[m
+           ├─26390 /usr/sbin/apache2 -k start[m
+           ├─26391 /usr/sbin/apache2 -k start[m
+           ├─26392 /usr/sbin/apache2 -k start[m
+           └─26393 /usr/sbin/apache2 -k start[m
+[m
+Apr 29 11:39:12 tpc-Veriton-Series systemd[1]: Starting The Apache HTTP Server...[m
+Apr 29 11:39:13 tpc-Veriton-Series apachectl[26384]: AH00558: apache2: Could not reliably determine the server's fully qualified domain name, [m
+Apr 29 11:39:13 tpc-Veriton-Series systemd[1]: Started The Apache HTTP Server.[m
+[7mlines 1-19/19 (END)[27m[K[K[?1l>
+]0;tpc@tpc-Veriton-Series: ~[01;32mtpc@tpc-Veriton-Series[00m:[01;34m~[00m$ cd /
+]0;tpc@tpc-Veriton-Series: /[01;32mtpc@tpc-Veriton-Series[00m:[01;34m/[00m$ ls
+[0m[01;34mbin[0m   [01;34mcdrom[0m  [01;34metc[0m   [01;36minitrd.img[0m      [01;34mlib[0m    [01;34mlost+found[0m  [01;34mmnt[0m  [01;34mproc[0m  [01;34mrun[0m   [01;34msnap[0m  swapfile  [30;42mtmp[0m  [01;34mvar[0m      [01;36mvmlinuz.old[0m
+[01;34mboot[0m  [01;34mdev[0m    [01;34mhome[0m  [01;36minitrd.img.old[0m  [01;34mlib64[0m  [01;34mmedia[0m       [01;34mopt[0m  [01;34mroot[0m  [01;34msbin[0m  [01;34msrv[0m   [01;34msys[0m       [01;34musr[0m  [01;36mvmlinuz[0m
+]0;tpc@tpc-Veriton-Series: /[01;32mtpc@tpc-Veriton-Series[00m:[01;34m/[00m$ cd var/www/html/
+]0;tpc@tpc-Veriton-Series: /var/www/html[01;32mtpc@tpc-Veriton-Series[00m:[01;34m/var/www/html[00m$ ls
+index.html  index.nginx-debian.html  index.php
+]0;tpc@tpc-Veriton-Series: /var/www/html[01;32mtpc@tpc-Veriton-Series[00m:[01;34m/var/www/html[00m$ rm index. [Khtml 
+rm: remove write-protected regular file 'index.html'? 
+]0;tpc@tpc-Veriton-Series: /var/www/html[01;32mtpc@tpc-Veriton-Series[00m:[01;34m/var/www/html[00m$ rm index.html [1@s[1@u[1@d[1@o[1@ 
+]0;tpc@tpc-Veriton-Series: /var/www/html[01;32mtpc@tpc-Veriton-Series[00m:[01;34m/var/www/html[00m$ exit
+exit
+
+Script done on 2019-04-29 11:45:16+0530
