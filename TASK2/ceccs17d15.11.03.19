@@ -1,5 +1,6 @@
 Script started on 2019-03-11 22:37:24+0530
-]0;s4d1@tpc-Veriton-Series: ~[01;32ms4d1@tpc-Veriton-Series[00m:[01;34m~[00m$ cat result_CHN.txtpdftotext result_CHN.pdf -layout[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[14Pcat result_CHN.txtpdftotext result_CHN.pdf -layout
+]0;s4d1@tpc-Veriton-Series: ~[01;32ms4d1@tpc-Veriton-Series[00m:[01;34m~[00m$ cat result_CHN.txtpdftotext result_CHN.pdf -layout
+[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[14Pcat result_CHN.txtpdftotext result_CHN.pdf -layout
 I/O Error: Couldn't open file 'result_CHN.pdf': No such file or directory.
 ]0;s4d1@tpc-Veriton-Series: ~[01;32ms4d1@tpc-Veriton-Series[00m:[01;34m~[00m$ cd Downloads
 ]0;s4d1@tpc-Veriton-Series: ~/Downloads[01;32ms4d1@tpc-Veriton-Series[00m:[01;34m~/Downloads[00m$ cd Downloadspdftotext result_CHN.pdf -layout
@@ -1102,7 +1103,10 @@ CHN17AE028   MA101(F), CY100(C), BE110(B), BE10104(B), BE103(B), ME100(C), CY110
 
 
 16/02/2018                                                                Controller of Examinations
-]0;s4d1@tpc-Veriton-Series: ~/Downloads[01;32ms4d1@tpc-Veriton-Series[00m:[01;34m~/Downloads[00m$ cat result_CHN.txtpdftotext result_CHN.pdf -layout[20Pcd Downloadspdftotext result_CHN.pdf -layout[14Pcat result_CHN.txtpdftotext result_CHN.pdf -layout[14Pcat result_CHN.txtpdftotext result_CHN.pdf[12Pcd Downloadspdftotext result_CHN.pdfscript ceccs17d15.11.03.19[14Pcat cgpa.txtpaste -d"/t" result_CHN.txt cgpa.txt >result_CHN.txts[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cawk '{s=$3+$6+$9+$12+$15+$18+$21+$24}{r=s/8}{print r}' result_CHN.txt >cgpa.txt[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ccat result_CHN.txt[KcHN.txtsed -i 's/(A+)/ 9 /g' result_CHN.txt[18@cat result_CHN.txt[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[18Psed -i 's/(FE)/ 0[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1P[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CP)/ 5[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CC)/ 6[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CB)/ 7[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1@+)/ 8[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1@A)/ 8.5[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1P+)/ 9[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CO)/ 10[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[7Pgrep "CHN17CS"[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[11Pcat[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cpdftotext result_CHN.pdf -layout[20Pcd Downloadspdftotext rsult_CHN.pdf -layout[5Pscript ceccs17d15.11.03.19[9Pcat result_CS.txt[28@grep "CHN17CS" result_CHN.txt >[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K[12Pcat result_CHN.txtpdftotext result_CHN.pdf[12Pcd Downloadspdftotext result_CHN.pdfscript ceccs17d15.11.03.19grep "CHN17CS" result_CHN.txt[11Pcat[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cpdftotext result_CHN.pdf[6Pcat result_CHN.txt[11@grep "CHN17CS"[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+]0;s4d1@tpc-Veriton-Series: ~/Downloads[01;32ms4d1@tpc-Veriton-Series[00m:[01;34m~/Downloads[00m$ cat result_CHN.txtpdftotext result_CHN.pdf -layout[20Pcd Downloadspdftotext result_CHN.pdf -layout[14Pcat result_CHN.txtpdftotext result_CHN.pdf -layout[14Pcat result_CHN.txtpdftotext result_CHN.pdf[12Pcd Downloadspdftotext result_CHN.pdfscript ceccs17d15.11.03.19[14Pcat cgpa.txtpaste -d"/t" result_CHN.txt cgpa.txt >result_CHN.txts[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cawk '{s=$3+$6+$9+$12+$15+$18+$21+$24}{r=s/8}{print r}' result_CHN.txt >cgpa.txt
+[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ccat result_CHN.txt[KcHN.txtsed -i 's/(A+)/ 9 /g' result_CHN.txt[18@cat result_CHN.txt[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[18Psed -i 's/(FE)/ 0[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1P[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CP)/ 5[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CC)/ 6[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CB)/ 7[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1@+)/ 8[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1@A)/ 8.5[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1P+)/ 9[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CO)/ 10[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[7Pgrep "CHN17CS"[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[11Pcat[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cpdftotext result_CHN.pdf -layout[20Pcd Downloadspdftotext rsult_CHN.pdf -layout[5Pscript ceccs17d15.11.03.19[9Pcat result_CS.txt[28@grep "CHN17CS" result_CHN.txt >[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K[12Pcat result_CHN.txtpdftotext result_CHN.pdf[12Pcd Downloadspdftotext result_CHN.pdfscript ceccs17d15.11.03.19grep "CHN17CS" result_CHN.txt[11Pcat[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cpdftotext result_CHN.pdf[6Pcat result_CHN.txt[11@grep "CHN17CS"[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
 [01;31m[KCHN17CS[m[K001       MA101(A), PH100(B+), BE100(B), BE10105(B+), BE103(B+), EE100(C), PH110(A), EE110(B+),
 [01;31m[KCHN17CS[m[K002       MA101(A), PH100(B+), BE100(B), BE10105(B+), BE103(A), EE100(B), PH110(B+), EE110(B+),
 [01;31m[KCHN17CS[m[K003       MA101(B+), PH100(B), BE100(C), BE10105(C), BE103(A+), EE100(C), PH110(B+), EE110(B+),
@@ -1223,16 +1227,48 @@ CHN17AE028   MA101(F), CY100(C), BE110(B), BE10104(B), BE103(B), ME100(C), CY110
 [01;31m[KCHN17CS[m[K118   MA101(B), PH100(A), BE100(A), BE10105(C), BE103(B+), EE100(B+), PH110(O), EE110(O),
 [01;31m[KCHN17CS[m[K119   MA101(F), PH100(C), BE100(F), BE10105(B), BE103(B), EE100(C), PH110(A+), EE110(B+),
 [01;31m[KCHN17CS[m[K120   MA101(F), PH100(F), BE100(F), BE10105(F), BE103(B+), EE100(C), PH110(A), EE110(B+),
-]0;s4d1@tpc-Veriton-Series: ~/Downloads[01;32ms4d1@tpc-Veriton-Series[00m:[01;34m~/Downloads[00m$ grep "CHN17CS" result_CHN.txt[11Pcat[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cpdftotext result_CHN.pdf -layout[20Pcd Downloadspdftotext result_CHN.pdf -layout[14Pcat result_CHN.txtpdftotext result_CHN.pdf -layout[14Pcat result_CHN.txtpdftotext result_CHN.pdf[12Pcd Downloadspdftotext result_CHN.pdfscript ceccs17d15.11.03.19[14Pcat cgpa.txtpaste -d"/t" result_CHN.txt cgpa.txt >result_CHN.txts[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cawk '{s=$3+$6+$9+$12+$15+$18+$21+$24}{r=s/8}{print r}' result_CHN.txt >cgpa.txt[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ccat result_CHN.txt[KcHN.txtsed -i 's/(A+)/ 9 /g' result_CHN.txt[18@cat result_CHN.txt[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[18Psed -i 's/(FE)/ 0[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1P[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CP)/ 5[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CC)/ 6[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CB)/ 7[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1@+)/ 8[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1@A)/ 8.5[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1P+)/ 9[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CO)/ 10[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
-]0;s4d1@tpc-Veriton-Series: ~/Downloads[01;32ms4d1@tpc-Veriton-Series[00m:[01;34m~/Downloads[00m$ sed -i 's/(O)/ 10 /g' result_CHN.txt[7Pgrep "CHN17CS"[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[11Pcat[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cpdftotext result_CHN.pdf -layout[20Pcd Downloadspdftotext result_CHN.pdf -layout[14Pcat result_CHN.txtpdftotext result_CHN.pdf -layout[14Pcat result_CHN.txtpdftotext result_CHN.pdf[12Pcd Downloadspdftotext result_CHN.pdfscript ceccs17d15.11.03.19[14Pcat cgpa.txtpaste -d"/t" result_CHN.txt cgpa.txt >result_CHN.txts[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cawk '{s=$3+$6+$9+$12+$15+$18+$21+$24}{r=s/8}{print r}' result_CHN.txt >cgpa.txt[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ccat result_CHN.txt[KcHN.txtsed -i 's/(A+)/ 9 /g' result_CHN.txt[18@cat result_CHN.txt[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[18Psed -i 's/(FE)/ 0[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1P[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CP)/ 5[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CC)/ 6[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CB)/ 7[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1@+)/ 8[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1@A)/ 8.5[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1P+)/ 9[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CO)/ 10[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
-]0;s4d1@tpc-Veriton-Series: ~/Downloads[01;32ms4d1@tpc-Veriton-Series[00m:[01;34m~/Downloads[00m$ sed -i 's/(O)/ 10 /g' result_CHN.txt[7Pgrep "CHN17CS"[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[11Pcat[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cpdftotext result_CHN.pdf -layout[20Pcd Downloadspdftotext result_CHN.pdf -layout[14Pcat result_CHN.txtpdftotext result_CHN.pdf -layout[14Pcat result_CHN.txtpdftotext result_CHN.pdf[12Pcd Downloadspdftotext result_CHN.pdfscript ceccs17d15.11.03.19[14Pcat cgpa.txtpaste -d"/t" result_CHN.txt cgpa.txt >result_CHN.txts[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cawk '{s=$3+$6+$9+$12+$15+$18+$21+$24}{r=s/8}{print r}' result_CHN.txt >cgpa.txt[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ccat result_CHN.txt[KcHN.txtsed -i 's/(A+)/ 9 /g' result_CHN.txt[18@cat result_CHN.txt[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[18Psed -i 's/(FE)/ 0[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1P[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CP)/ 5[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CC)/ 6[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CB)/ 7[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1@+)/ 8[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1@A)/ 8.5[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1P+)/ 9[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
-]0;s4d1@tpc-Veriton-Series: ~/Downloads[01;32ms4d1@tpc-Veriton-Series[00m:[01;34m~/Downloads[00m$ sed -i 's/(A+)/ 9 /g' result_CHN.txtO)/ 10[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[7Pgrep "CHN17CS"[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[11Pcat[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cpdftotext result_CHN.pdf -layout[20Pcd Downloadspdftotext result_CHN.pdf -layout[14Pcat result_CHN.txtpdftotext result_CHN.pdf -layout[14Pcat result_CHN.txtpdftotext result_CHN.pdf[12Pcd Downloadspdftotext result_CHN.pdfscript ceccs17d15.11.03.19[14Pcat cgpa.txtpaste -d"/t" result_CHN.txt cgpa.txt >result_CHN.txts[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cawk '{s=$3+$6+$9+$12+$15+$18+$21+$24}{r=s/8}{print r}' result_CHN.txt >cgpa.txt[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ccat result_CHN.txt[KcHN.txtsed -i 's/(A+)/ 9 /g' result_CHN.txt[18@cat result_CHN.txt[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[18Psed -i 's/(FE)/ 0[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1P[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CP)/ 5[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CC)/ 6[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CB)/ 7[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1@+)/ 8[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1@A)/ 8.5[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
-]0;s4d1@tpc-Veriton-Series: ~/Downloads[01;32ms4d1@tpc-Veriton-Series[00m:[01;34m~/Downloads[00m$ sed -i 's/(A)/ 8.5 /g' result_CHN.txt[1P+)/ 9[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CO)/ 10[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[7Pgrep "CHN17CS"[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[11Pcat[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cpdftotext result_CHN.pdf -layout[20Pcd Downloadspdftotext result_CHN.pdf -layout[14Pcat result_CHN.txtpdftotext result_CHN.pdf -layout[14Pcat result_CHN.txtpdftotext result_CHN.pdf[12Pcd Downloadspdftotext result_CHN.pdf[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[Kscript ceccs17d15.11.03.19[14Pcat cgpa.txtpaste -d"/t" result_CHN.txt cgpa.txt >result_CHN.txts[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cawk '{s=$3+$6+$9+$12+$15+$18+$21+$24}{r=s/8}{print r}' result_CHN.txt >cgpa.txt[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ccat result_CHN.txt[KcHN.txtsed -i 's/(A+)/ 9 /g' result_CHN.txt[18@cat result_CHN.txt[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[18Psed -i 's/(FE)/ 0[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1P[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CP)/ 5[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CC)/ 6[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CB)/ 7[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1@+)/ 8[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1@A)/ 8.5[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1P+)/ 9[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CO)/ 10[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[7Pgrep "CHN17CS"[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[11Pcat[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cpdftotext result_CHN.pdf -layout[20Pcd Downloadspdftotext rsult_CHN.pdf -layout[5Pscript ceccs17d15.11.03.19[9Pcat result_CS.txt[28@grep "CHN17CS" result_CHN.txt >[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K[12Pcat result_CHN.txtpdftotext result_CHN.pdf[12Pcd Downloadspdftotext result_CHN.pdfscript ceccs17d15.11.03.19grep "CHN17CS" result_CHN.txt[11Pcat[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cpdftotext result_CHN.pdfscript ceccs17d15.11.03.19[9Pcat result_CS.txtgrep "CHN17CS" result_CHN.txt>result_CS.txt[2P[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[23Pcat result_CHN.txtscript ceccs17d15.11.03.19[14Pcat cgpa.txtawk '{s=$3+$6+$9+$12+$15+$18+$21+$24}{r=s/8}{print r}' result_CHN.txt>cgpa.txt[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ccat result_CHN.txt[K[18@sed -i 's/(FE)/ 0 /g'[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1P[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CP)/ 5[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CC)/ 6[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CB)/ 7[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1@+)/ 8[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
-]0;s4d1@tpc-Veriton-Series: ~/Downloads[01;32ms4d1@tpc-Veriton-Series[00m:[01;34m~/Downloads[00m$ sed -i 's/(B+)/ 8 /g' result_CHN.txt[1@A)/ 8.5[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1P+)/ 9[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CO)/ 10[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[7Pgrep "CHN17CS"[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[11Pcat[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cpdftotext result_CHN.pdf -layout[20Pcd Downloadspdftotext result_CHN.pdf -layout[14Pcat result_CHN.txtpdftotext result_CHN.pdf -layout[14Pcat result_CHN.txtpdftotext result_CHN.pdf[12Pcd Downloads[Kscript ceccs17d15.11.03.19[14Pcat cgpa.txtpaste -d"/t" result_CHN.txt cgpa.txt >result_CHN.txts[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cawk '{s=$3+$6+$9+$12+$15+$18+$21+$24}{r=s/8}{print r}' result_CHN.txt >cgpa.txt[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ccat result_CHN.txt[KcHN.txtsed -i 's/(A+)/ 9 /g' result_CHN.txt[18@cat result_CHN.txt[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[18Psed -i 's/(FE)/ 0[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1P[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CP)/ 5[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CC)/ 6[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CB)/ 7[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
-]0;s4d1@tpc-Veriton-Series: ~/Downloads[01;32ms4d1@tpc-Veriton-Series[00m:[01;34m~/Downloads[00m$ sed -i 's/(B)/ 7 /g' result_CHN.txt[1@+)/ 8[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1@A)/ 8.5[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1P+)/ 9[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CO)/ 10[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[7Pgrep "CHN17CS"[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[11Pcat[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cpdftotext result_CHN.pdf -layout[20Pcd Downloadspdftotext result_CHN.pdf -layout[14Pcat result_CHN.txtpdftotext result_CHN.pdf -layout[14Pcat result_CHN.txtpdftotext result_CHN.pdf[12Pcd Downloads[Kscript ceccs17d15.11.03.19[14Pcat cgpa.txtpaste -d"/t" result_CHN.txt cgpa.txt >result_CHN.txts[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cawk '{s=$3+$6+$9+$12+$15+$18+$21+$24}{r=s/8}{print r}' result_CHN.txt >cgpa.txt[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ccat result_CHN.txt[KcHN.txtsed -i 's/(A+)/ 9 /g' result_CHN.txt[18@cat result_CHN.txt[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[18Psed -i 's/(FE)/ 0[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1P[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CP)/ 5[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CC)/ 6[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
-]0;s4d1@tpc-Veriton-Series: ~/Downloads[01;32ms4d1@tpc-Veriton-Series[00m:[01;34m~/Downloads[00m$ sed -i 's/(C)/ 6 /g' result_CHN.txtB)/ 7[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1@+)/ 8[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1@A)/ 8.5[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1P+)/ 9[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CO)/ 10[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[7Pgrep "CHN17CS"[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[11Pcat[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cpdftotext result_CHN.pdf -layout[20Pcd Downloadspdftotext result_CHN.pdf -layout[14Pcat result_CHN.txtpdftotext result_CHN.pdf -layout[14Pcat result_CHN.txtpdftotext result_CHN.pdf[12Pcd Downloads[Kscript ceccs17d15.11.03.19[14Pcat cgpa.txtpaste -d"/t" result_CHN.txt cgpa.txt >result_CHN.txts[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cawk '{s=$3+$6+$9+$12+$15+$18+$21+$24}{r=s/8}{print r}' result_CHN.txt >cgpa.txt[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ccat result_CHN.txt[KcHN.txtsed -i 's/(A+)/ 9 /g' result_CHN.txt[18@cat result_CHN.txt[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[18Psed -i 's/(FE)/ 0[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1P[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CP)/ 5[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
-]0;s4d1@tpc-Veriton-Series: ~/Downloads[01;32ms4d1@tpc-Veriton-Series[00m:[01;34m~/Downloads[00m$ sed -i 's/(P)/ 5 /g' result_CHN.txtC)/ 6[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CB)/ 7[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1@+)/ 8[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1@A)/ 8.5[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1P+)/ 9[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CO)/ 10[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[7Pgrep "CHN17CS"[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[11Pcat[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cpdftotext result_CHN.pdf -layout[20Pcd Downloadspdftotext result_CHN.pdf -layout[14Pcat result_CHN.txtpdftotext result_CHN.pdf -layout[14Pcat result_CHN.txtpdftotext result_CHN.pdf[12Pcd Downloads[Kscript ceccs17d15.11.03.19[14Pcat cgpa.txtpaste -d"/t" result_CHN.txt cgpa.txt >result_CHN.txts[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cawk '{s=$3+$6+$9+$12+$15+$18+$21+$24}{r=s/8}{print r}' result_CHN.txt >cgpa.txt[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ccat result_CHN.txt[KcHN.txtsed -i 's/(A+)/ 9 /g' result_CHN.txt[18@cat result_CHN.txt[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[18Psed -i 's/(FE)/ 0[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1P[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CP)/ 5[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CC)/ 6[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CB)/ 7[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CC)/ 6[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CP)/ 5[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CF)/ 0[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
-]0;s4d1@tpc-Veriton-Series: ~/Downloads[01;32ms4d1@tpc-Veriton-Series[00m:[01;34m~/Downloads[00m$ sed -i 's/(F)/ 0 /g' result_CHN.txtP)/ 5[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CC)/ 6[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CB)/ 7[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1@+)/ 8[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1@A)/ 8.5[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1P+)/ 9[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CO)/ 10[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[7Pgrep "CHN17CS"[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[11Pcat[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cpdftotext result_CHN.pdf -layout[20Pcd Downloadspdftotext result_CHN.pdf -layout[14Pcat result_CHN.txtpdftotext result_CHN.pdf -layout[14Pcat result_CHN.txtpdftotext result_CHN.pdf[12Pcd Downloads[Kscript ceccs17d15.11.03.19[14Pcat cgpa.txtpaste -d"/t" result_CHN.txt cgpa.txt >result_CHN.txts[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cawk '{s=$3+$6+$9+$12+$15+$18+$21+$24}{r=s/8}{print r}' result_CHN.txt >cgpa.txt[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ccat result_CHN.txt[KcHN.txtsed -i 's/(A+)/ 9 /g' result_CHN.txt[18@cat result_CHN.txt[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[18Psed -i 's/(FE)/ 0[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1P[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1@E[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+]0;s4d1@tpc-Veriton-Series: ~/Downloads[01;32ms4d1@tpc-Veriton-Series[00m:[01;34m~/Downloads[00m$ grep "CHN17CS" result_CHN.txt[11Pcat[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cpdftotext result_CHN.pdf -layout[20Pcd Downloadspdftotext result_CHN.pdf -layout[14Pcat result_CHN.txtpdftotext result_CHN.pdf -layout[14Pcat result_CHN.txtpdftotext result_CHN.pdf[12Pcd Downloadspdftotext result_CHN.pdfscript ceccs17d15.11.03.19[14Pcat cgpa.txtpaste -d"/t" result_CHN.txt cgpa.txt >result_CHN.txts[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cawk '{s=$3+$6+$9+$12+$15+$18+$21+$24}{r=s/8}{print r}' result_CHN.txt >cgpa.txt
+[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ccat result_CHN.txt[KcHN.txtsed -i 's/(A+)/ 9 /g' result_CHN.txt[18@cat result_CHN.txt[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[18Psed -i 's/(FE)/ 0[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1P[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CP)/ 5[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CC)/ 6[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CB)/ 7[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1@+)/ 8[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1@A)/ 8.5[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1P+)/ 9[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CO)/ 10[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+]0;s4d1@tpc-Veriton-Series: ~/Downloads[01;32ms4d1@tpc-Veriton-Series[00m:[01;34m~/Downloads[00m$ sed -i 's/(O)/ 10 /g' result_CHN.txt[7Pgrep "CHN17CS"[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[11Pcat[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cpdftotext result_CHN.pdf -layout[20Pcd Downloadspdftotext result_CHN.pdf -layout[14Pcat result_CHN.txtpdftotext result_CHN.pdf -layout[14Pcat result_CHN.txtpdftotext result_CHN.pdf[12Pcd Downloadspdftotext result_CHN.pdfscript ceccs17d15.11.03.19[14Pcat cgpa.txtpaste -d"/t" result_CHN.txt cgpa.txt >result_CHN.txts[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cawk '{s=$3+$6+$9+$12+$15+$18+$21+$24}{r=s/8}{print r}' result_CHN.txt >cgpa.txt
+[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ccat result_CHN.txt[KcHN.txtsed -i 's/(A+)/ 9 /g' result_CHN.txt[18@cat result_CHN.txt[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[18Psed -i 's/(FE)/ 0[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1P[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CP)/ 5[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CC)/ 6[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CB)/ 7[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1@+)/ 8[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1@A)/ 8.5[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1P+)/ 9[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CO)/ 10[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+]0;s4d1@tpc-Veriton-Series: ~/Downloads[01;32ms4d1@tpc-Veriton-Series[00m:[01;34m~/Downloads[00m$ sed -i 's/(O)/ 10 /g' result_CHN.txt[7Pgrep "CHN17CS"[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[11Pcat[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cpdftotext result_CHN.pdf -layout[20Pcd Downloadspdftotext result_CHN.pdf -layout[14Pcat result_CHN.txtpdftotext result_CHN.pdf -layout[14Pcat result_CHN.txtpdftotext result_CHN.pdf[12Pcd Downloadspdftotext result_CHN.pdfscript ceccs17d15.11.03.19[14Pcat cgpa.txtpaste -d"/t" result_CHN.txt cgpa.txt >result_CHN.txts[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cawk '{s=$3+$6+$9+$12+$15+$18+$21+$24}{r=s/8}{print r}' result_CHN.txt >cgpa.txt
+[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ccat result_CHN.txt[KcHN.txtsed -i 's/(A+)/ 9 /g' result_CHN.txt[18@cat result_CHN.txt[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[18Psed -i 's/(FE)/ 0[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1P[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CP)/ 5[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CC)/ 6[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CB)/ 7[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1@+)/ 8[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1@A)/ 8.5[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1P+)/ 9[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+]0;s4d1@tpc-Veriton-Series: ~/Downloads[01;32ms4d1@tpc-Veriton-Series[00m:[01;34m~/Downloads[00m$ sed -i 's/(A+)/ 9 /g' result_CHN.txtO)/ 10[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[7Pgrep "CHN17CS"[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[11Pcat[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cpdftotext result_CHN.pdf -layout[20Pcd Downloadspdftotext result_CHN.pdf -layout[14Pcat result_CHN.txtpdftotext result_CHN.pdf -layout[14Pcat result_CHN.txtpdftotext result_CHN.pdf[12Pcd Downloadspdftotext result_CHN.pdfscript ceccs17d15.11.03.19[14Pcat cgpa.txtpaste -d"/t" result_CHN.txt cgpa.txt >result_CHN.txts[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cawk '{s=$3+$6+$9+$12+$15+$18+$21+$24}{r=s/8}{print r}' result_CHN.txt >cgpa.txt
+[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ccat result_CHN.txt[KcHN.txtsed -i 's/(A+)/ 9 /g' result_CHN.txt[18@cat result_CHN.txt[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[18Psed -i 's/(FE)/ 0[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1P[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CP)/ 5[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CC)/ 6[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CB)/ 7[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1@+)/ 8[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1@A)/ 8.5[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+]0;s4d1@tpc-Veriton-Series: ~/Downloads[01;32ms4d1@tpc-Veriton-Series[00m:[01;34m~/Downloads[00m$ sed -i 's/(A)/ 8.5 /g' result_CHN.txt[1P+)/ 9[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CO)/ 10[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[7Pgrep "CHN17CS"[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[11Pcat[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cpdftotext result_CHN.pdf -layout[20Pcd Downloadspdftotext result_CHN.pdf -layout[14Pcat result_CHN.txtpdftotext result_CHN.pdf -layout[14Pcat result_CHN.txtpdftotext result_CHN.pdf[12Pcd Downloadspdftotext result_CHN.pdf[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[Kscript ceccs17d15.11.03.19[14Pcat cgpa.txtpaste -d"/t" result_CHN.txt cgpa.txt >result_CHN.txts[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cawk '{s=$3+$6+$9+$12+$15+$18+$21+$24}{r=s/8}{print r}' result_CHN.txt >cgpa.txt
+[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ccat result_CHN.txt[KcHN.txtsed -i 's/(A+)/ 9 /g' result_CHN.txt[18@cat result_CHN.txt[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[18Psed -i 's/(FE)/ 0[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1P[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CP)/ 5[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CC)/ 6[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CB)/ 7[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1@+)/ 8[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1@A)/ 8.5[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1P+)/ 9[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CO)/ 10[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[7Pgrep "CHN17CS"[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[11Pcat[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cpdftotext result_CHN.pdf -layout[20Pcd Downloadspdftotext rsult_CHN.pdf -layout[5Pscript ceccs17d15.11.03.19[9Pcat result_CS.txt[28@grep "CHN17CS" result_CHN.txt >[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K[12Pcat result_CHN.txtpdftotext result_CHN.pdf[12Pcd Downloadspdftotext result_CHN.pdfscript ceccs17d15.11.03.19grep "CHN17CS" result_CHN.txt[11Pcat[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cpdftotext result_CHN.pdfscript ceccs17d15.11.03.19[9Pcat result_CS.txtgrep "CHN17CS" result_CHN.txt>result_CS.txt[2P[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[23Pcat result_CHN.txtscript ceccs17d15.11.03.19[14Pcat cgpa.txtawk '{s=$3+$6+$9+$12+$15+$18+$21+$24}{r=s/8}{print r}' result_CHN.txt>cgpa.txt
+[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ccat result_CHN.txt[K[18@sed -i 's/(FE)/ 0 /g'[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1P[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CP)/ 5[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CC)/ 6[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CB)/ 7[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1@+)/ 8[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+]0;s4d1@tpc-Veriton-Series: ~/Downloads[01;32ms4d1@tpc-Veriton-Series[00m:[01;34m~/Downloads[00m$ sed -i 's/(B+)/ 8 /g' result_CHN.txt[1@A)/ 8.5[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1P+)/ 9[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CO)/ 10[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[7Pgrep "CHN17CS"[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[11Pcat[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cpdftotext result_CHN.pdf -layout[20Pcd Downloadspdftotext result_CHN.pdf -layout[14Pcat result_CHN.txtpdftotext result_CHN.pdf -layout[14Pcat result_CHN.txtpdftotext result_CHN.pdf[12Pcd Downloads[Kscript ceccs17d15.11.03.19[14Pcat cgpa.txtpaste -d"/t" result_CHN.txt cgpa.txt >result_CHN.txts[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cawk '{s=$3+$6+$9+$12+$15+$18+$21+$24}{r=s/8}{print r}' result_CHN.txt >cgpa.txt
+[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ccat result_CHN.txt[KcHN.txtsed -i 's/(A+)/ 9 /g' result_CHN.txt[18@cat result_CHN.txt[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[18Psed -i 's/(FE)/ 0[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1P[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CP)/ 5[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CC)/ 6[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CB)/ 7[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+]0;s4d1@tpc-Veriton-Series: ~/Downloads[01;32ms4d1@tpc-Veriton-Series[00m:[01;34m~/Downloads[00m$ sed -i 's/(B)/ 7 /g' result_CHN.txt[1@+)/ 8[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1@A)/ 8.5[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1P+)/ 9[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CO)/ 10[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[7Pgrep "CHN17CS"[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[11Pcat[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cpdftotext result_CHN.pdf -layout[20Pcd Downloadspdftotext result_CHN.pdf -layout[14Pcat result_CHN.txtpdftotext result_CHN.pdf -layout[14Pcat result_CHN.txtpdftotext result_CHN.pdf[12Pcd Downloads[Kscript ceccs17d15.11.03.19[14Pcat cgpa.txtpaste -d"/t" result_CHN.txt cgpa.txt >result_CHN.txts[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cawk '{s=$3+$6+$9+$12+$15+$18+$21+$24}{r=s/8}{print r}' result_CHN.txt >cgpa.txt
+[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ccat result_CHN.txt[KcHN.txtsed -i 's/(A+)/ 9 /g' result_CHN.txt[18@cat result_CHN.txt[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[18Psed -i 's/(FE)/ 0[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1P[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CP)/ 5[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CC)/ 6[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+]0;s4d1@tpc-Veriton-Series: ~/Downloads[01;32ms4d1@tpc-Veriton-Series[00m:[01;34m~/Downloads[00m$ sed -i 's/(C)/ 6 /g' result_CHN.txtB)/ 7[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1@+)/ 8[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1@A)/ 8.5[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1P+)/ 9[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CO)/ 10[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[7Pgrep "CHN17CS"[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[11Pcat[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cpdftotext result_CHN.pdf -layout[20Pcd Downloadspdftotext result_CHN.pdf -layout[14Pcat result_CHN.txtpdftotext result_CHN.pdf -layout[14Pcat result_CHN.txtpdftotext result_CHN.pdf[12Pcd Downloads[Kscript ceccs17d15.11.03.19[14Pcat cgpa.txtpaste -d"/t" result_CHN.txt cgpa.txt >result_CHN.txts[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cawk '{s=$3+$6+$9+$12+$15+$18+$21+$24}{r=s/8}{print r}' result_CHN.txt >cgpa.txt
+[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ccat result_CHN.txt[KcHN.txtsed -i 's/(A+)/ 9 /g' result_CHN.txt[18@cat result_CHN.txt[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[18Psed -i 's/(FE)/ 0[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1P[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CP)/ 5[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+]0;s4d1@tpc-Veriton-Series: ~/Downloads[01;32ms4d1@tpc-Veriton-Series[00m:[01;34m~/Downloads[00m$ sed -i 's/(P)/ 5 /g' result_CHN.txtC)/ 6[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CB)/ 7[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1@+)/ 8[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1@A)/ 8.5[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1P+)/ 9[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CO)/ 10[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[7Pgrep "CHN17CS"[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[11Pcat[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cpdftotext result_CHN.pdf -layout[20Pcd Downloadspdftotext result_CHN.pdf -layout[14Pcat result_CHN.txtpdftotext result_CHN.pdf -layout[14Pcat result_CHN.txtpdftotext result_CHN.pdf[12Pcd Downloads[Kscript ceccs17d15.11.03.19[14Pcat cgpa.txtpaste -d"/t" result_CHN.txt cgpa.txt >result_CHN.txts[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cawk '{s=$3+$6+$9+$12+$15+$18+$21+$24}{r=s/8}{print r}' result_CHN.txt >cgpa.txt
+[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ccat result_CHN.txt[KcHN.txtsed -i 's/(A+)/ 9 /g' result_CHN.txt[18@cat result_CHN.txt[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[18Psed -i 's/(FE)/ 0[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1P[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CP)/ 5[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CC)/ 6[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CB)/ 7[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CC)/ 6[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CP)/ 5[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CF)/ 0[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+]0;s4d1@tpc-Veriton-Series: ~/Downloads[01;32ms4d1@tpc-Veriton-Series[00m:[01;34m~/Downloads[00m$ sed -i 's/(F)/ 0 /g' result_CHN.txtP)/ 5[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CC)/ 6[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CB)/ 7[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1@+)/ 8[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1@A)/ 8.5[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1P+)/ 9[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CO)/ 10[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[7Pgrep "CHN17CS"[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[11Pcat[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cpdftotext result_CHN.pdf -layout[20Pcd Downloadspdftotext result_CHN.pdf -layout[14Pcat result_CHN.txtpdftotext result_CHN.pdf -layout[14Pcat result_CHN.txtpdftotext result_CHN.pdf[12Pcd Downloads[Kscript ceccs17d15.11.03.19[14Pcat cgpa.txtpaste -d"/t" result_CHN.txt cgpa.txt >result_CHN.txts[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cawk '{s=$3+$6+$9+$12+$15+$18+$21+$24}{r=s/8}{print r}' result_CHN.txt >cgpa.txt
+[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ccat result_CHN.txt[KcHN.txtsed -i 's/(A+)/ 9 /g' result_CHN.txt[18@cat result_CHN.txt[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[18Psed -i 's/(FE)/ 0[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1P[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1@E[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
 ]0;s4d1@tpc-Veriton-Series: ~/Downloads[01;32ms4d1@tpc-Veriton-Series[00m:[01;34m~/Downloads[00m$ sed -i 's/(FE)/ 0 /g' result_CHN.txt[1P[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CP)/ 5[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CC)/ 6[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CB)/ 7[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1@+)/ 8[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1@A)/ 8.5[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1P+)/ 9[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CO)/ 10[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[7Pgrep "CHN17CS"[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[11Pcat[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
                       APJ ABDUL KALAM TECHNOLOGICAL UNIVERSITY
                             Thiruvananthapuram, Kerala, INDIA
@@ -2332,7 +2368,8 @@ CHN17AE028   MA101 0 , CY100 6 , BE110 7 , BE10104 7 , BE103 7 , ME100 6 , CY110
 
 
 16/02/2018                                                                Controller of Examinations
-]0;s4d1@tpc-Veriton-Series: ~/Downloads[01;32ms4d1@tpc-Veriton-Series[00m:[01;34m~/Downloads[00m$ cat result_CHN.txt[18@sed -i 's/(FE)/ 0 /g'[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1P[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CP)/ 5[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CC)/ 6[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CB)/ 7[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1@+)/ 8[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1@A)/ 8.5[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1P+)/ 9[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CO)/ 10[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[7Pgrep "CHN17CS"[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[11Pcat[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cpdftotext result_CHN.pdf -layout[20Pcd Downloadspdftotext result_CHN.pdf -layout[14Pcat result_CHN.txtpdftotext result_CHN.pdf -layout[14Pcat result_CHN.txtpdftotext result_CHN.pdf[12Pcd Downloads[Kscript ceccs17d15.11.03.19[14Pcat cgpa.txtpaste -d"/t" result_CHN.txt cgpa.txt >result_CHN.txt[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ccat cgpa.txt[Kscript ceccs17d15.11.03.19[Kcd Downloadspdftotext result_CHN.pdf[6Pcat result_CHN.txtpdftotext result_CHN.pdf -layout[14Pcat result_CHN.txtpdftotext result_CHN.pdf -layout[20Pcd Downloadspdftotext result_CHN.pdf -layout[14Pcat result_CHN.txt[11@grep "CHN17CS"[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[7@sed -i 's/(O)/ 10 /g'[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[7Pgrep "CHN17CS"[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+]0;s4d1@tpc-Veriton-Series: ~/Downloads[01;32ms4d1@tpc-Veriton-Series[00m:[01;34m~/Downloads[00m$ cat result_CHN.txt[18@sed -i 's/(FE)/ 0 /g'[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1P[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CP)/ 5[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CC)/ 6[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CB)/ 7[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1@+)/ 8[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1@A)/ 8.5[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1P+)/ 9[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CO)/ 10[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[7Pgrep "CHN17CS"[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[11Pcat[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cpdftotext result_CHN.pdf -layout[20Pcd Downloadspdftotext result_CHN.pdf -layout[14Pcat result_CHN.txtpdftotext result_CHN.pdf -layout[14Pcat result_CHN.txtpdftotext result_CHN.pdf[12Pcd Downloads[Kscript ceccs17d15.11.03.19[14Pcat cgpa.txtpaste -d"/t" result_CHN.txt cgpa.txt >result_CHN.txt
+[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ccat cgpa.txt[Kscript ceccs17d15.11.03.19[Kcd Downloadspdftotext result_CHN.pdf[6Pcat result_CHN.txtpdftotext result_CHN.pdf -layout[14Pcat result_CHN.txtpdftotext result_CHN.pdf -layout[20Pcd Downloadspdftotext result_CHN.pdf -layout[14Pcat result_CHN.txt[11@grep "CHN17CS"[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[7@sed -i 's/(O)/ 10 /g'[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[7Pgrep "CHN17CS"[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
 [01;31m[KCHN17CS[m[K001       MA101 8.5 , PH100 8 , BE100 7 , BE10105 8 , BE103 8 , EE100 6 , PH110 8.5 , EE110 8 ,
 [01;31m[KCHN17CS[m[K002       MA101 8.5 , PH100 8 , BE100 7 , BE10105 8 , BE103 8.5 , EE100 7 , PH110 8 , EE110 8 ,
 [01;31m[KCHN17CS[m[K003       MA101 8 , PH100 7 , BE100 6 , BE10105 6 , BE103 9 , EE100 6 , PH110 8 , EE110 8 ,
@@ -2466,32 +2503,39 @@ CHN17AE028   MA101 0 , CY100 6 , BE110 7 , BE10104 7 , BE103 7 , ME100 6 , CY110
 ]0;s4d1@tpc-Veriton-Series: ~/Downloads[01;32ms4d1@tpc-Veriton-Series[00m:[01;34m~/Downloads[00m$ awk '
 > ^C
 ]0;s4d1@tpc-Veriton-Series: ~/Downloads[01;32ms4d1@tpc-Veriton-Series[00m:[01;34m~/Downloads[00m$ awk '{s=$3+$6+49           
-z
+
+z
 
 
 
 
 
 
-^C
+
+^C
 ]0;s4d1@tpc-Veriton-Series: ~/Downloads[01;32ms4d1@tpc-Veriton-Series[00m:[01;34m~/Downloads[00m$ awk '{s=$3+$6+49[C[1P9&9[1P9$9[C+$12+$15+$18+4[K&[K$21+$24} {r=s/8}{print r}' result_CHN[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[Kawk '
-z
+
+z
 
 
 
 
 
 
-gre[K[K[K[K[A[K[A[K[A[K[A[K[A[K[A^C
+
+gre[K[K
+[K[K[A[K[A[K[A[K[A[K[A[K[A^C
 ]0;s4d1@tpc-Veriton-Series: ~/Downloads[01;32ms4d1@tpc-Veriton-Series[00m:[01;34m~/Downloads[00m$ awk '
-z
+
+z
 
 
 
 
 
 
-^C
+
+^C
 ]0;s4d1@tpc-Veriton-Series: ~/Downloads[01;32ms4d1@tpc-Veriton-Series[00m:[01;34m~/Downloads[00m$ ls
  cgpa.txt  'result_CHN(1).pdf'   result_CHN.pdf   result_CHN.txt   result_CS.txt
 ]0;s4d1@tpc-Veriton-Series: ~/Downloads[01;32ms4d1@tpc-Veriton-Series[00m:[01;34m~/Downloads[00m$ grep 'CHN17CS" [K[K' result_CHN.txt > cs.txt
@@ -2617,22 +2661,32 @@ CHN17CS118   MA101 7 , PH100 8.5 , BE100 8.5 , BE10105 6 , BE103 8 , EE100 8 , P
 CHN17CS119   MA101 0 , PH100 6 , BE100 0 , BE10105 7 , BE103 7 , EE100 6 , PH110 9 , EE110 8 ,
 CHN17CS120   MA101 0 , PH100 0 , BE100 0 , BE10105 0 , BE103 8 , EE100 6 , PH110 8.5 , EE110 8 ,
 ]0;s4d1@tpc-Veriton-Series: ~/Downloads[01;32ms4d1@tpc-Veriton-Series[00m:[01;34m~/Downloads[00m$ cat cs.txt[28@grep 'CHN17CS' result_CHN.txt >[C[C[C[C[C[C[Cls[K[Kawk '
-z
+
+z
 
 
 
 
 
 
-[A[A[A[A[A[A[A[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cgrep "CHN17CS" result_CHN.txt
-[K
-[K
-[K
-[K
-[K
-[K
-[K
-[K[A[A[A[A[A[A[A[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[11Pcat[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[18@sed -i 's/(FE)/ 0 /g'[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K
+
+[A[A[A[A[A[A[A[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cgrep "CHN17CS" result_CHN.txt
+
+[K
+
+[K
+
+[K
+
+[K
+
+[K
+
+[K
+
+[K
+
+[K[A[A[A[A[A[A[A[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[11Pcat[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[18@sed -i 's/(FE)/ 0 /g'[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K
 ]0;s4d1@tpc-Veriton-Series: ~/Downloads[01;32ms4d1@tpc-Veriton-Series[00m:[01;34m~/Downloads[00m$ aew[K[Kwkj [K[K ' [K{s=$3+46+49+412+415+418[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K$6+$9+$12+$15+$18+$21+$12[K[K24}{r=s/8}{print r}' cs.txt >gpa.txt
 ]0;s4d1@tpc-Veriton-Series: ~/Downloads[01;32ms4d1@tpc-Veriton-Series[00m:[01;34m~/Downloads[00m$ cat gpa.txt
 7.75
@@ -2756,7 +2810,8 @@ CHN17CS120   MA101 0 , PH100 0 , BE100 0 , BE10105 0 , BE103 8 , EE100 6 , PH110
 5.375
 3.8125
 ]0;s4d1@tpc-Veriton-Series: ~/Downloads[01;32ms4d1@tpc-Veriton-Series[00m:[01;34m~/Downloads[00m$ paste -d[K[K[K[K[K[K[K[Kman paste
-[?1049h[22;0;0t[?1h=PASTE(1)                                                       User Commands                                                      PASTE(1)[m
+[?1049h[22;0;0t[?1h=
+PASTE(1)                                                       User Commands                                                      PASTE(1)[m
 [m
 [1mNAME[0m[m
        paste - merge lines of files[m
@@ -2791,73 +2846,732 @@ CHN17CS120   MA101 0 , PH100 0 , BE100 0 , BE10105 0 , BE103 8 , EE100 6 , PH110
 [1mREPORTING[0m [1mBUGS[0m[m
        GNU coreutils online help: <http://www.gnu.org/software/coreutils/>[m
        Report paste translation bugs to <http://translationproject.org/team/>[m
-[7m Manual page paste(1) line 1 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
-[7m Manual page paste(1) line 2 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[1mCOPYRIGHT[0m[m
-[7m Manual page paste(1) line 3 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       Copyright © 2017 Free Software Foundation, Inc.  License GPLv3+: GNU GPL version 3 or later <http://gnu.org/licenses/gpl.html>.[m
-[7m Manual page paste(1) line 4 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       This is free software: you are free to change and redistribute it.  There is NO WARRANTY, to the extent permitted by law.[m
-[7m Manual page paste(1) line 5 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
-[7m Manual page paste(1) line 6 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[1mSEE[0m [1mALSO[0m[m
-[7m Manual page paste(1) line 7 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       Full documentation at: <http://www.gnu.org/software/coreutils/paste>[m
-[7m Manual page paste(1) line 8 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       or available locally via: info '(coreutils) paste invocation'[m
-[7m Manual page paste(1) line 9 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
-[7m Manual page paste(1) line 10 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[KGNU coreutils 8.28                                             January 2018                                                       PASTE(1)[m
-[7m Manual page paste(1) line 11 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[K[7m Manual page paste(1) line 11/45 (END) (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[K[7m Manual page paste(1) line 11/45 (END) (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[K[7m Manual page paste(1) line 11/45 (END) (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[K[7m Manual page paste(1) line 11/45 (END) (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[K[7m Manual page paste(1) line 11/45 (END) (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[K[7m Manual page paste(1) line 11/45 (END) (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[HM       Write lines consisting of the sequentially corresponding lines from each FILE, separated by TABs, to standard output.[m
-[36;1H[K[7m Manual page paste(1) line 10/45 93% (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[HM[1mDESCRIPTION[0m[m
-[36;1H[K[7m Manual page paste(1) line 9/45 93% (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[HM[m
-[36;1H[K[7m Manual page paste(1) line 8/45 89% (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[HM       [1mpaste[0m [[4mOPTION[24m]... [[4mFILE[24m]...[m
-[36;1H[K[7m Manual page paste(1) line 7/45 85% (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[HM[1mSYNOPSIS[0m[m
-[36;1H[K[7m Manual page paste(1) line 6/45 84% (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[HM[m
-[36;1H[K[7m Manual page paste(1) line 5/45 84% (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[HM       paste - merge lines of files[m
-[36;1H[K[7m Manual page paste(1) line 4/45 77% (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[HM[1mNAME[0m[m
-[36;1H[K[7m Manual page paste(1) line 3/45 70% (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[HM[m
-[36;1H[K[7m Manual page paste(1) line 2/45 69% (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[HMPASTE(1)                                                       User Commands                                                      PASTE(1)[m
-[36;1H[K[7m Manual page paste(1) line 1/45 69% (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[K[7m Manual page paste(1) line 1/45 69% (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[K[7m Manual page paste(1) line 1/45 69% (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[K[7m Manual page paste(1) line 1/45 69% (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[K[7m Manual page paste(1) line 1/45 69% (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[K[7m Manual page paste(1) line 1/45 69% (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[K[7m Manual page paste(1) line 1/45 69% (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[K[7m Manual page paste(1) line 1/45 69% (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[K[7m Manual page paste(1) line 1/45 69% (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[K[7m Manual page paste(1) line 1/45 69% (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[K[7m Manual page paste(1) line 1/45 69% (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[K[7m Manual page paste(1) line 1/45 69% (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[K[7m Manual page paste(1) line 1/45 69% (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[K[7m Manual page paste(1) line 1/45 69% (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[K[7m Manual page paste(1) line 1/45 69% (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[K[7m Manual page paste(1) line 1/45 69% (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[K[7m Manual page paste(1) line 1/45 69% (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[K[7m Manual page paste(1) line 1/45 69% (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[K[7m Manual page paste(1) line 1/45 69% (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[K[7m Manual page paste(1) line 1/45 69% (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[K[7m Manual page paste(1) line 1/45 69% (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[K[7m Manual page paste(1) line 1/45 69% (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[K[7m Manual page paste(1) line 1/45 69% (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[K[7m Manual page paste(1) line 1/45 69% (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[K[7m Manual page paste(1) line 1/45 69% (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[K[7m Manual page paste(1) line 1/45 69% (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[K[7m Manual page paste(1) line 1/45 69% (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[K[7m Manual page paste(1) line 1/45 69% (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[K[7m Manual page paste(1) line 1/45 69% (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[K[7m Manual page paste(1) line 1/45 69% (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[K[7m Manual page paste(1) line 1/45 69% (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[K[7m Manual page paste(1) line 1/45 69% (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[K[7m Manual page paste(1) line 1/45 69% (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[K[7m Manual page paste(1) line 1/45 69% (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[K[7m Manual page paste(1) line 1/45 69% (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[K[7m Manual page paste(1) line 1/45 69% (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[K[7m Manual page paste(1) line 1/45 69% (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[K[7m Manual page paste(1) line 1/45 69% (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[K[7m Manual page paste(1) line 1/45 69% (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[K[7m Manual page paste(1) line 1/45 69% (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[K[7m Manual page paste(1) line 1/45 69% (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[K[7m Manual page paste(1) line 1/45 69% (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[K[7m Manual page paste(1) line 1/45 69% (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[K[7m Manual page paste(1) line 1/45 69% (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[K[7m Manual page paste(1) line 1/45 69% (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[K[7m Manual page paste(1) line 1/45 69% (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[K[7m Manual page paste(1) line 1/45 69% (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[K[7m Manual page paste(1) line 1/45 69% (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[K[7m Manual page paste(1) line 1/45 69% (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[K[7m Manual page paste(1) line 1/45 69% (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[K[7m Manual page paste(1) line 1/45 69% (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[K[7m Manual page paste(1) line 1/45 69% (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[K[7m Manual page paste(1) line 1/45 69% (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[K[7m Manual page paste(1) line 1/45 69% (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[K[7m Manual page paste(1) line 1/45 69% (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[K[7m Manual page paste(1) line 1/45 69% (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[K[7m Manual page paste(1) line 1/45 69% (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[K[7m Manual page paste(1) line 1/45 69% (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[K[7m Manual page paste(1) line 1/45 69% (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[K[7m Manual page paste(1) line 1/45 69% (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[K[7m Manual page paste(1) line 1/45 69% (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[K[7m Manual page paste(1) line 1/45 69% (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[K[7m Manual page paste(1) line 1/45 69% (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[K[7m Manual page paste(1) line 1/45 69% (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[K[7m Manual page paste(1) line 1/45 69% (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[K[7m Manual page paste(1) line 1/45 69% (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[K[7m Manual page paste(1) line 1/45 69% (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[K[7m Manual page paste(1) line 1/45 69% (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[K[7m Manual page paste(1) line 1/45 69% (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[K[7m Manual page paste(1) line 1/45 69% (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[K[7m Manual page paste(1) line 1/45 69% (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[K[7m Manual page paste(1) line 1/45 69% (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[K[7m Manual page paste(1) line 1/45 69% (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[K[7m Manual page paste(1) line 1/45 69% (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[K[7m Manual page paste(1) line 1/45 69% (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
-[7m Manual page paste(1) line 2/45 69% (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[1mCOPYRIGHT[0m[m
-[7m Manual page paste(1) line 3/45 70% (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       Copyright © 2017 Free Software Foundation, Inc.  License GPLv3+: GNU GPL version 3 or later <http://gnu.org/licenses/gpl.html>.[m
-[7m Manual page paste(1) line 4/45 77% (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       This is free software: you are free to change and redistribute it.  There is NO WARRANTY, to the extent permitted by law.[m
-[7m Manual page paste(1) line 5/45 84% (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
-[7m Manual page paste(1) line 6/45 84% (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[1mSEE[0m [1mALSO[0m[m
-[7m Manual page paste(1) line 7/45 85% (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       Full documentation at: <http://www.gnu.org/software/coreutils/paste>[m
-[7m Manual page paste(1) line 8/45 89% (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       or available locally via: info '(coreutils) paste invocation'[m
-[7m Manual page paste(1) line 9/45 93% (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
-[7m Manual page paste(1) line 10/45 93% (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[KGNU coreutils 8.28                                             January 2018                                                       PASTE(1)[m
-[7m Manual page paste(1) line 11/45 (END) (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[K[7m Manual page paste(1) line 11/45 (END) (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[K[7m Manual page paste(1) line 11/45 (END) (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[K[7m Manual page paste(1) line 11/45 (END) (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[K[7m Manual page paste(1) line 11/45 (END) (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[K[7m Manual page paste(1) line 11/45 (END) (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[K[7m Manual page paste(1) line 11/45 (END) (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[K[7m Manual page paste(1) line 11/45 (END) (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[K[7m Manual page paste(1) line 11/45 (END) (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[K[7m Manual page paste(1) line 11/45 (END) (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[K[7m Manual page paste(1) line 11/45 (END) (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[K[7m Manual page paste(1) line 11/45 (END) (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[K[7m Manual page paste(1) line 11/45 (END) (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[K[7m Manual page paste(1) line 11/45 (END) (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[K[7m Manual page paste(1) line 11/45 (END) (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[K[7m Manual page paste(1) line 11/45 (END) (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[K[7m Manual page paste(1) line 11/45 (END) (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[K[7m Manual page paste(1) line 11/45 (END) (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[K[7m Manual page paste(1) line 11/45 (END) (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[K[7m Manual page paste(1) line 11/45 (END) (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[K[7m Manual page paste(1) line 11/45 (END) (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[K[7m Manual page paste(1) line 11/45 (END) (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[K[7m Manual page paste(1) line 11/45 (END) (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[K[7m Manual page paste(1) line 11/45 (END) (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[K[7m Manual page paste(1) line 11/45 (END) (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[K[7m Manual page paste(1) line 11/45 (END) (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[K[7m Manual page paste(1) line 11/45 (END) (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[K[7m Manual page paste(1) line 11/45 (END) (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[K[7m Manual page paste(1) line 11/45 (END) (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[K[7m Manual page paste(1) line 11/45 (END) (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[K[7m Manual page paste(1) line 11/45 (END) (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[K[7m Manual page paste(1) line 11/45 (END) (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[K[7m Manual page paste(1) line 11/45 (END) (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[K[7m Manual page paste(1) line 11/45 (END) (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[K[7m Manual page paste(1) line 11/45 (END) (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[K[7m Manual page paste(1) line 11/45 (END) (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[K[7m Manual page paste(1) line 11/45 (END) (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[K[7m Manual page paste(1) line 11/45 (END) (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[K[7m Manual page paste(1) line 11/45 (END) (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[K[7m Manual page paste(1) line 11/45 (END) (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[K[7m Manual page paste(1) line 11/45 (END) (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[K[7m Manual page paste(1) line 11/45 (END) (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[K[7m Manual page paste(1) line 11/45 (END) (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[K[7m Manual page paste(1) line 11/45 (END) (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[K[7m Manual page paste(1) line 11/45 (END) (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[K[7m Manual page paste(1) line 11/45 (END) (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[K[7m Manual page paste(1) line 11/45 (END) (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[K[7m Manual page paste(1) line 11/45 (END) (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[K[7m Manual page paste(1) line 11/45 (END) (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[K[7m Manual page paste(1) line 11/45 (END) (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[K[7m Manual page paste(1) line 11/45 (END) (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[K[7m Manual page paste(1) line 11/45 (END) (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[K[7m Manual page paste(1) line 11/45 (END) (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[K[7m Manual page paste(1) line 11/45 (END) (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[K[7m Manual page paste(1) line 11/45 (END) (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[HM       Write lines consisting of the sequentially corresponding lines from each FILE, separated by TABs, to standard output.[m
-[36;1H[K[7m Manual page paste(1) line 10/45 93% (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[HM[1mDESCRIPTION[0m[m
-[36;1H[K[7m Manual page paste(1) line 9/45 93% (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[HM[m
-[36;1H[K[7m Manual page paste(1) line 8/45 89% (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[HM       [1mpaste[0m [[4mOPTION[24m]... [[4mFILE[24m]...[m
-[36;1H[K[7m Manual page paste(1) line 7/45 85% (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[HM[1mSYNOPSIS[0m[m
-[36;1H[K[7m Manual page paste(1) line 6/45 84% (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[HM[m
-[36;1H[K[7m Manual page paste(1) line 5/45 84% (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[HM       paste - merge lines of files[m
-[36;1H[K[7m Manual page paste(1) line 4/45 77% (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[HM[1mNAME[0m[m
-[36;1H[K[7m Manual page paste(1) line 3/45 70% (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[HM[m
-[36;1H[K[7m Manual page paste(1) line 2/45 69% (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[HMPASTE(1)                                                       User Commands                                                      PASTE(1)[m
-[36;1H[K[7m Manual page paste(1) line 1/45 69% (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[K[7m Manual page paste(1) line 1/45 69% (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[K[7m Manual page paste(1) line 1/45 69% (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[K[7m Manual page paste(1) line 1/45 69% (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[K[7m Manual page paste(1) line 1/45 69% (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[K[7m Manual page paste(1) line 1/45 69% (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[K[7m Manual page paste(1) line 1/45 69% (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[K[7m Manual page paste(1) line 1/45 69% (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[K[7m Manual page paste(1) line 1/45 69% (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[K[7m Manual page paste(1) line 1/45 69% (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[K[7m Manual page paste(1) line 1/45 69% (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
-[7m Manual page paste(1) line 2/45 69% (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[1mCOPYRIGHT[0m[m
-[7m Manual page paste(1) line 3/45 70% (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       Copyright © 2017 Free Software Foundation, Inc.  License GPLv3+: GNU GPL version 3 or later <http://gnu.org/licenses/gpl.html>.[m
-[7m Manual page paste(1) line 4/45 77% (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       This is free software: you are free to change and redistribute it.  There is NO WARRANTY, to the extent permitted by law.[m
-[7m Manual page paste(1) line 5/45 84% (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
-[7m Manual page paste(1) line 6/45 84% (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[1mSEE[0m [1mALSO[0m[m
-[7m Manual page paste(1) line 7/45 85% (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       Full documentation at: <http://www.gnu.org/software/coreutils/paste>[m
-[7m Manual page paste(1) line 8/45 89% (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       or available locally via: info '(coreutils) paste invocation'[m
-[7m Manual page paste(1) line 9/45 93% (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
-[7m Manual page paste(1) line 10/45 93% (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[KGNU coreutils 8.28                                             January 2018                                                       PASTE(1)[m
-[7m Manual page paste(1) line 11/45 (END) (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[K[7m Manual page paste(1) line 11/45 (END) (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[K[7m Manual page paste(1) line 11/45 (END) (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[K[7m Manual page paste(1) line 11/45 (END) (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[K[7m Manual page paste(1) line 11/45 (END) (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[K[7m Manual page paste(1) line 11/45 (END) (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[K[7m Manual page paste(1) line 11/45 (END) (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[K[7m Manual page paste(1) line 11/45 (END) (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[K[7m Manual page paste(1) line 11/45 (END) (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[K[7m Manual page paste(1) line 11/45 (END) (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[K[7m Manual page paste(1) line 11/45 (END) (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[K[7m Manual page paste(1) line 11/45 (END) (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[K[7m Manual page paste(1) line 11/45 (END) (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[K[7m Manual page paste(1) line 11/45 (END) (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[K[7m Manual page paste(1) line 11/45 (END) (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[K[7m Manual page paste(1) line 11/45 (END) (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[K[7m Manual page paste(1) line 11/45 (END) (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[K[7m Manual page paste(1) line 11/45 (END) (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[K[7m Manual page paste(1) line 11/45 (END) (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[K[7m Manual page paste(1) line 11/45 (END) (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[K[7m Manual page paste(1) line 11/45 (END) (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[K[7m Manual page paste(1) line 11/45 (END) (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[K[7m Manual page paste(1) line 11/45 (END) (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[HM       Write lines consisting of the sequentially corresponding lines from each FILE, separated by TABs, to standard output.[m
-[36;1H[K[7m Manual page paste(1) line 10/45 93% (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[HM[1mDESCRIPTION[0m[m
-[36;1H[K[7m Manual page paste(1) line 9/45 93% (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[HM[m
-[36;1H[K[7m Manual page paste(1) line 8/45 89% (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[HM       [1mpaste[0m [[4mOPTION[24m]... [[4mFILE[24m]...[m
-[36;1H[K[7m Manual page paste(1) line 7/45 85% (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[HM[1mSYNOPSIS[0m[m
-[36;1H[K[7m Manual page paste(1) line 6/45 84% (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[HM[m
-[36;1H[K[7m Manual page paste(1) line 5/45 84% (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[HM       paste - merge lines of files[m
-[36;1H[K[7m Manual page paste(1) line 4/45 77% (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[HM[1mNAME[0m[m
-[36;1H[K[7m Manual page paste(1) line 3/45 70% (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       Copyright © 2017 Free Software Foundation, Inc.  License GPLv3+: GNU GPL version 3 or later <http://gnu.org/licenses/gpl.html>.[m
-[7m Manual page paste(1) line 4/45 77% (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       This is free software: you are free to change and redistribute it.  There is NO WARRANTY, to the extent permitted by law.[m
-[7m Manual page paste(1) line 5/45 84% (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
-[7m Manual page paste(1) line 6/45 84% (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[1mSEE[0m [1mALSO[0m[m
-[7m Manual page paste(1) line 7/45 85% (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       Full documentation at: <http://www.gnu.org/software/coreutils/paste>[m
-[7m Manual page paste(1) line 8/45 89% (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       or available locally via: info '(coreutils) paste invocation'[m
-[7m Manual page paste(1) line 9/45 93% (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
-[7m Manual page paste(1) line 10/45 93% (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[KGNU coreutils 8.28                                             January 2018                                                       PASTE(1)[m
-[7m Manual page paste(1) line 11/45 (END) (press h for help or q to quit)[27m[K[K[?1l>[?1049l[23;0;0t]0;s4d1@tpc-Veriton-Series: ~/Downloads[01;32ms4d1@tpc-Veriton-Series[00m:[01;34m~/Downloads[00m$ awk '{print$1}"[K' cs.txt > reg.txt
+[7m Manual page paste(1) line 1 (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K[m
+[7m Manual page paste(1) line 2 (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K[1mCOPYRIGHT[0m[m
+[7m Manual page paste(1) line 3 (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K       Copyright © 2017 Free Software Foundation, Inc.  License GPLv3+: GNU GPL version 3 or later <http://gnu.org/licenses/gpl.html>.[m
+[7m Manual page paste(1) line 4 (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K       This is free software: you are free to change and redistribute it.  There is NO WARRANTY, to the extent permitted by law.[m
+[7m Manual page paste(1) line 5 (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K[m
+[7m Manual page paste(1) line 6 (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K[1mSEE[0m [1mALSO[0m[m
+[7m Manual page paste(1) line 7 (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K       Full documentation at: <http://www.gnu.org/software/coreutils/paste>[m
+[7m Manual page paste(1) line 8 (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K       or available locally via: info '(coreutils) paste invocation'[m
+[7m Manual page paste(1) line 9 (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K[m
+[7m Manual page paste(1) line 10 (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[KGNU coreutils 8.28                                             January 2018                                                       PASTE(1)[m
+[7m Manual page paste(1) line 11 (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page paste(1) line 11/45 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page paste(1) line 11/45 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page paste(1) line 11/45 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page paste(1) line 11/45 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page paste(1) line 11/45 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page paste(1) line 11/45 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KAA
+[K[HM       Write lines consisting of the sequentially corresponding lines from each FILE, separated by TABs, to standard output.[m
+[36;1H
+[K[7m Manual page paste(1) line 10/45 93% (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KAA
+[K[HM[1mDESCRIPTION[0m[m
+[36;1H
+[K[7m Manual page paste(1) line 9/45 93% (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KAA
+[K[HM[m
+[36;1H
+[K[7m Manual page paste(1) line 8/45 89% (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KAA
+[K[HM       [1mpaste[0m [[4mOPTION[24m]... [[4mFILE[24m]...[m
+[36;1H
+[K[7m Manual page paste(1) line 7/45 85% (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KAA
+[K[HM[1mSYNOPSIS[0m[m
+[36;1H
+[K[7m Manual page paste(1) line 6/45 84% (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KAA
+[K[HM[m
+[36;1H
+[K[7m Manual page paste(1) line 5/45 84% (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KAA
+[K[HM       paste - merge lines of files[m
+[36;1H
+[K[7m Manual page paste(1) line 4/45 77% (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KAA
+[K[HM[1mNAME[0m[m
+[36;1H
+[K[7m Manual page paste(1) line 3/45 70% (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KAA
+[K[HM[m
+[36;1H
+[K[7m Manual page paste(1) line 2/45 69% (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KAA
+[K[HMPASTE(1)                                                       User Commands                                                      PASTE(1)[m
+[36;1H
+[K[7m Manual page paste(1) line 1/45 69% (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KAA
+[K
+[K[7m Manual page paste(1) line 1/45 69% (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KAA
+[K
+[K[7m Manual page paste(1) line 1/45 69% (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KAA
+[K
+[K[7m Manual page paste(1) line 1/45 69% (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KAA
+[K
+[K[7m Manual page paste(1) line 1/45 69% (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KAA
+[K
+[K[7m Manual page paste(1) line 1/45 69% (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KAA
+[K
+[K[7m Manual page paste(1) line 1/45 69% (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KAA
+[K
+[K[7m Manual page paste(1) line 1/45 69% (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KAA
+[K
+[K[7m Manual page paste(1) line 1/45 69% (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KAA
+[K
+[K[7m Manual page paste(1) line 1/45 69% (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KAA
+[K
+[K[7m Manual page paste(1) line 1/45 69% (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KAA
+[K
+[K[7m Manual page paste(1) line 1/45 69% (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KAA
+[K
+[K[7m Manual page paste(1) line 1/45 69% (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KAA
+[K
+[K[7m Manual page paste(1) line 1/45 69% (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KAA
+[K
+[K[7m Manual page paste(1) line 1/45 69% (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KAA
+[K
+[K[7m Manual page paste(1) line 1/45 69% (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KAA
+[K
+[K[7m Manual page paste(1) line 1/45 69% (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KAA
+[K
+[K[7m Manual page paste(1) line 1/45 69% (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KAA
+[K
+[K[7m Manual page paste(1) line 1/45 69% (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KAA
+[K
+[K[7m Manual page paste(1) line 1/45 69% (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KAA
+[K
+[K[7m Manual page paste(1) line 1/45 69% (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KAA
+[K
+[K[7m Manual page paste(1) line 1/45 69% (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KAA
+[K
+[K[7m Manual page paste(1) line 1/45 69% (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KAA
+[K
+[K[7m Manual page paste(1) line 1/45 69% (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KAA
+[K
+[K[7m Manual page paste(1) line 1/45 69% (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KAA
+[K
+[K[7m Manual page paste(1) line 1/45 69% (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KAA
+[K
+[K[7m Manual page paste(1) line 1/45 69% (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KAA
+[K
+[K[7m Manual page paste(1) line 1/45 69% (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KAA
+[K
+[K[7m Manual page paste(1) line 1/45 69% (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KAA
+[K
+[K[7m Manual page paste(1) line 1/45 69% (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KAA
+[K
+[K[7m Manual page paste(1) line 1/45 69% (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KAA
+[K
+[K[7m Manual page paste(1) line 1/45 69% (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KAA
+[K
+[K[7m Manual page paste(1) line 1/45 69% (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KAA
+[K
+[K[7m Manual page paste(1) line 1/45 69% (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KAA
+[K
+[K[7m Manual page paste(1) line 1/45 69% (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KAA
+[K
+[K[7m Manual page paste(1) line 1/45 69% (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KAA
+[K
+[K[7m Manual page paste(1) line 1/45 69% (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KAA
+[K
+[K[7m Manual page paste(1) line 1/45 69% (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KAA
+[K
+[K[7m Manual page paste(1) line 1/45 69% (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KAA
+[K
+[K[7m Manual page paste(1) line 1/45 69% (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KAA
+[K
+[K[7m Manual page paste(1) line 1/45 69% (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KAA
+[K
+[K[7m Manual page paste(1) line 1/45 69% (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KAA
+[K
+[K[7m Manual page paste(1) line 1/45 69% (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KAA
+[K
+[K[7m Manual page paste(1) line 1/45 69% (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KAA
+[K
+[K[7m Manual page paste(1) line 1/45 69% (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KAA
+[K
+[K[7m Manual page paste(1) line 1/45 69% (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KAA
+[K
+[K[7m Manual page paste(1) line 1/45 69% (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KAA
+[K
+[K[7m Manual page paste(1) line 1/45 69% (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KAA
+[K
+[K[7m Manual page paste(1) line 1/45 69% (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KAA
+[K
+[K[7m Manual page paste(1) line 1/45 69% (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KAA
+[K
+[K[7m Manual page paste(1) line 1/45 69% (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KAA
+[K
+[K[7m Manual page paste(1) line 1/45 69% (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KAA
+[K
+[K[7m Manual page paste(1) line 1/45 69% (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KAA
+[K
+[K[7m Manual page paste(1) line 1/45 69% (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KAA
+[K
+[K[7m Manual page paste(1) line 1/45 69% (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KAA
+[K
+[K[7m Manual page paste(1) line 1/45 69% (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KAA
+[K
+[K[7m Manual page paste(1) line 1/45 69% (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KAA
+[K
+[K[7m Manual page paste(1) line 1/45 69% (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KAA
+[K
+[K[7m Manual page paste(1) line 1/45 69% (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KAA
+[K
+[K[7m Manual page paste(1) line 1/45 69% (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KAA
+[K
+[K[7m Manual page paste(1) line 1/45 69% (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KAA
+[K
+[K[7m Manual page paste(1) line 1/45 69% (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KAA
+[K
+[K[7m Manual page paste(1) line 1/45 69% (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KAA
+[K
+[K[7m Manual page paste(1) line 1/45 69% (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KAA
+[K
+[K[7m Manual page paste(1) line 1/45 69% (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KAA
+[K
+[K[7m Manual page paste(1) line 1/45 69% (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KAA
+[K
+[K[7m Manual page paste(1) line 1/45 69% (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KAA
+[K
+[K[7m Manual page paste(1) line 1/45 69% (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KAA
+[K
+[K[7m Manual page paste(1) line 1/45 69% (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KAA
+[K
+[K[7m Manual page paste(1) line 1/45 69% (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KAA
+[K
+[K[7m Manual page paste(1) line 1/45 69% (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KAA
+[K
+[K[7m Manual page paste(1) line 1/45 69% (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KAA
+[K
+[K[7m Manual page paste(1) line 1/45 69% (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KAA
+[K
+[K[7m Manual page paste(1) line 1/45 69% (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KAA
+[K
+[K[7m Manual page paste(1) line 1/45 69% (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K[m
+[7m Manual page paste(1) line 2/45 69% (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K[1mCOPYRIGHT[0m[m
+[7m Manual page paste(1) line 3/45 70% (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K       Copyright © 2017 Free Software Foundation, Inc.  License GPLv3+: GNU GPL version 3 or later <http://gnu.org/licenses/gpl.html>.[m
+[7m Manual page paste(1) line 4/45 77% (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K       This is free software: you are free to change and redistribute it.  There is NO WARRANTY, to the extent permitted by law.[m
+[7m Manual page paste(1) line 5/45 84% (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K[m
+[7m Manual page paste(1) line 6/45 84% (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K[1mSEE[0m [1mALSO[0m[m
+[7m Manual page paste(1) line 7/45 85% (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K       Full documentation at: <http://www.gnu.org/software/coreutils/paste>[m
+[7m Manual page paste(1) line 8/45 89% (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K       or available locally via: info '(coreutils) paste invocation'[m
+[7m Manual page paste(1) line 9/45 93% (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K[m
+[7m Manual page paste(1) line 10/45 93% (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[KGNU coreutils 8.28                                             January 2018                                                       PASTE(1)[m
+[7m Manual page paste(1) line 11/45 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page paste(1) line 11/45 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page paste(1) line 11/45 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page paste(1) line 11/45 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page paste(1) line 11/45 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page paste(1) line 11/45 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page paste(1) line 11/45 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page paste(1) line 11/45 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page paste(1) line 11/45 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page paste(1) line 11/45 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page paste(1) line 11/45 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page paste(1) line 11/45 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page paste(1) line 11/45 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page paste(1) line 11/45 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page paste(1) line 11/45 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page paste(1) line 11/45 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page paste(1) line 11/45 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page paste(1) line 11/45 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page paste(1) line 11/45 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page paste(1) line 11/45 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page paste(1) line 11/45 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page paste(1) line 11/45 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page paste(1) line 11/45 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page paste(1) line 11/45 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page paste(1) line 11/45 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page paste(1) line 11/45 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page paste(1) line 11/45 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page paste(1) line 11/45 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page paste(1) line 11/45 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page paste(1) line 11/45 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page paste(1) line 11/45 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page paste(1) line 11/45 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page paste(1) line 11/45 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page paste(1) line 11/45 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page paste(1) line 11/45 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page paste(1) line 11/45 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page paste(1) line 11/45 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page paste(1) line 11/45 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page paste(1) line 11/45 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page paste(1) line 11/45 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page paste(1) line 11/45 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page paste(1) line 11/45 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page paste(1) line 11/45 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page paste(1) line 11/45 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page paste(1) line 11/45 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page paste(1) line 11/45 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page paste(1) line 11/45 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page paste(1) line 11/45 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page paste(1) line 11/45 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page paste(1) line 11/45 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page paste(1) line 11/45 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page paste(1) line 11/45 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page paste(1) line 11/45 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page paste(1) line 11/45 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page paste(1) line 11/45 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KAA
+[K[HM       Write lines consisting of the sequentially corresponding lines from each FILE, separated by TABs, to standard output.[m
+[36;1H
+[K[7m Manual page paste(1) line 10/45 93% (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KAA
+[K[HM[1mDESCRIPTION[0m[m
+[36;1H
+[K[7m Manual page paste(1) line 9/45 93% (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KAA
+[K[HM[m
+[36;1H
+[K[7m Manual page paste(1) line 8/45 89% (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KAA
+[K[HM       [1mpaste[0m [[4mOPTION[24m]... [[4mFILE[24m]...[m
+[36;1H
+[K[7m Manual page paste(1) line 7/45 85% (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KAA
+[K[HM[1mSYNOPSIS[0m[m
+[36;1H
+[K[7m Manual page paste(1) line 6/45 84% (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KAA
+[K[HM[m
+[36;1H
+[K[7m Manual page paste(1) line 5/45 84% (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KAA
+[K[HM       paste - merge lines of files[m
+[36;1H
+[K[7m Manual page paste(1) line 4/45 77% (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KAA
+[K[HM[1mNAME[0m[m
+[36;1H
+[K[7m Manual page paste(1) line 3/45 70% (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KAA
+[K[HM[m
+[36;1H
+[K[7m Manual page paste(1) line 2/45 69% (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KAA
+[K[HMPASTE(1)                                                       User Commands                                                      PASTE(1)[m
+[36;1H
+[K[7m Manual page paste(1) line 1/45 69% (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KAA
+[K
+[K[7m Manual page paste(1) line 1/45 69% (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KAA
+[K
+[K[7m Manual page paste(1) line 1/45 69% (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KAA
+[K
+[K[7m Manual page paste(1) line 1/45 69% (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KAA
+[K
+[K[7m Manual page paste(1) line 1/45 69% (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KAA
+[K
+[K[7m Manual page paste(1) line 1/45 69% (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KAA
+[K
+[K[7m Manual page paste(1) line 1/45 69% (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KAA
+[K
+[K[7m Manual page paste(1) line 1/45 69% (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KAA
+[K
+[K[7m Manual page paste(1) line 1/45 69% (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KAA
+[K
+[K[7m Manual page paste(1) line 1/45 69% (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KAA
+[K
+[K[7m Manual page paste(1) line 1/45 69% (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K[m
+[7m Manual page paste(1) line 2/45 69% (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K[1mCOPYRIGHT[0m[m
+[7m Manual page paste(1) line 3/45 70% (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K       Copyright © 2017 Free Software Foundation, Inc.  License GPLv3+: GNU GPL version 3 or later <http://gnu.org/licenses/gpl.html>.[m
+[7m Manual page paste(1) line 4/45 77% (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K       This is free software: you are free to change and redistribute it.  There is NO WARRANTY, to the extent permitted by law.[m
+[7m Manual page paste(1) line 5/45 84% (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K[m
+[7m Manual page paste(1) line 6/45 84% (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K[1mSEE[0m [1mALSO[0m[m
+[7m Manual page paste(1) line 7/45 85% (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K       Full documentation at: <http://www.gnu.org/software/coreutils/paste>[m
+[7m Manual page paste(1) line 8/45 89% (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K       or available locally via: info '(coreutils) paste invocation'[m
+[7m Manual page paste(1) line 9/45 93% (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K[m
+[7m Manual page paste(1) line 10/45 93% (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[KGNU coreutils 8.28                                             January 2018                                                       PASTE(1)[m
+[7m Manual page paste(1) line 11/45 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page paste(1) line 11/45 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page paste(1) line 11/45 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page paste(1) line 11/45 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page paste(1) line 11/45 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page paste(1) line 11/45 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page paste(1) line 11/45 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page paste(1) line 11/45 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page paste(1) line 11/45 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page paste(1) line 11/45 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page paste(1) line 11/45 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page paste(1) line 11/45 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page paste(1) line 11/45 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page paste(1) line 11/45 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page paste(1) line 11/45 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page paste(1) line 11/45 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page paste(1) line 11/45 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page paste(1) line 11/45 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page paste(1) line 11/45 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page paste(1) line 11/45 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page paste(1) line 11/45 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page paste(1) line 11/45 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K
+[K[7m Manual page paste(1) line 11/45 (END) (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KAA
+[K[HM       Write lines consisting of the sequentially corresponding lines from each FILE, separated by TABs, to standard output.[m
+[36;1H
+[K[7m Manual page paste(1) line 10/45 93% (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KAA
+[K[HM[1mDESCRIPTION[0m[m
+[36;1H
+[K[7m Manual page paste(1) line 9/45 93% (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KAA
+[K[HM[m
+[36;1H
+[K[7m Manual page paste(1) line 8/45 89% (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KAA
+[K[HM       [1mpaste[0m [[4mOPTION[24m]... [[4mFILE[24m]...[m
+[36;1H
+[K[7m Manual page paste(1) line 7/45 85% (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KAA
+[K[HM[1mSYNOPSIS[0m[m
+[36;1H
+[K[7m Manual page paste(1) line 6/45 84% (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KAA
+[K[HM[m
+[36;1H
+[K[7m Manual page paste(1) line 5/45 84% (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KAA
+[K[HM       paste - merge lines of files[m
+[36;1H
+[K[7m Manual page paste(1) line 4/45 77% (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KAA
+[K[HM[1mNAME[0m[m
+[36;1H
+[K[7m Manual page paste(1) line 3/45 70% (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K       Copyright © 2017 Free Software Foundation, Inc.  License GPLv3+: GNU GPL version 3 or later <http://gnu.org/licenses/gpl.html>.[m
+[7m Manual page paste(1) line 4/45 77% (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K       This is free software: you are free to change and redistribute it.  There is NO WARRANTY, to the extent permitted by law.[m
+[7m Manual page paste(1) line 5/45 84% (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K[m
+[7m Manual page paste(1) line 6/45 84% (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K[1mSEE[0m [1mALSO[0m[m
+[7m Manual page paste(1) line 7/45 85% (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K       Full documentation at: <http://www.gnu.org/software/coreutils/paste>[m
+[7m Manual page paste(1) line 8/45 89% (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K       or available locally via: info '(coreutils) paste invocation'[m
+[7m Manual page paste(1) line 9/45 93% (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[K[m
+[7m Manual page paste(1) line 10/45 93% (press h for help or q to quit)[27m[K
+[K [KESCESC[KOO[KBB
+[KGNU coreutils 8.28                                             January 2018                                                       PASTE(1)[m
+[7m Manual page paste(1) line 11/45 (END) (press h for help or q to quit)[27m[K
+[K[?1l>[?1049l[23;0;0t]0;s4d1@tpc-Veriton-Series: ~/Downloads[01;32ms4d1@tpc-Veriton-Series[00m:[01;34m~/Downloads[00m$ awk '{print$1}"[K' cs.txt > reg.txt
 ]0;s4d1@tpc-Veriton-Series: ~/Downloads[01;32ms4d1@tpc-Veriton-Series[00m:[01;34m~/Downloads[00m$ catv [K reg.txt
 
 Command 'catv' not found, did you mean:
