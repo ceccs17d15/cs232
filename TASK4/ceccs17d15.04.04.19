@@ -1,6 +1,9 @@
 Script started on 2019-04-04 09:43:25+0530
-]0;s4d1@tpc-Veriton-Series: ~[01;32ms4d1@tpc-Veriton-Series[00m:[01;34m~[00m$ scp cs17d15@192.168.0.30:/home/cs17d15/me.txt/home/cecc[A]0;s4d1@tpc-Veriton-Series: ~[01;32ms4d1@tpc-Veriton-Series[00m:[01;34m~[00m$ [C[29Psh cs17d15@192.168.0.30
-[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+]0;s4d1@tpc-Veriton-Series: ~[01;32ms4d1@tpc-Veriton-Series[00m:[01;34m~[00m$ scp cs17d15@192.168.0.30:/home/cs17d15/me.txt/home/cec
+c[A
+]0;s4d1@tpc-Veriton-Series: ~[01;32ms4d1@tpc-Veriton-Series[00m:[01;34m~[00m$ [C[29Psh cs17d15@192.168.0.30
+
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
 .
               |
 .  .    . .-. | .-..-. .--.--. .-.
@@ -14,7 +17,8 @@ Welcome to elementary OS 0.4.1 Loki (GNU/Linux 4.13.0-32-generic x86_64)
 278 packages can be updated.
 0 updates are security updates.
 
-Last login: Thu Apr  4 09:35:53 2019 from 192.168.0.235
+Last login: Thu Apr  4 09:35:53 2019 from 192.168.0.235
+
 $ ls
 examples.desktop  me.txt  result.txt  sgpa.txt	test.txt
 $ cat me.txt
@@ -57,7 +61,8 @@ $ du
 $ exit
 You have stopped jobs.
 $ exit
-Connection to 192.168.0.30 closed.
+Connection to 192.168.0.30 closed.
+
 ]0;s4d1@tpc-Veriton-Series: ~[01;32ms4d1@tpc-Veriton-Series[00m:[01;34m~[00m$ exit
 exit
 
