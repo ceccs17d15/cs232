@@ -9,14 +9,19 @@ cs17d15@192.168.0.30's password:
 Connected to 192.168.0.30.
 sftp> put result.txt
 Uploading result.txt to /home/cs17d15/result.txt
-result.txt                                                                                                    0%    0     0.0KB/s   --:-- ETAresult.txt                                                                                                  100%   12KB   4.6MB/s   00:00    
+
+result.txt                                                                                                    0%    0     0.0KB/s   --:-- ETA
+result.txt                                                                                                  100%   12KB   4.6MB/s   00:00    
 sftp> get result.txt
 Fetching /home/cs17d15/result.txt to result.txt
-/home/cs17d15/result.txt                                                                                      0%    0     0.0KB/s   --:-- ETA/home/cs17d15/result.txt                                                                                    100%   12KB   3.4MB/s   00:00    
+
+/home/cs17d15/result.txt                                                                                      0%    0     0.0KB/s   --:-- ETA
+/home/cs17d15/result.txt                                                                                    100%   12KB   3.4MB/s   00:00    
 sftp> ls
 examples.desktop    result.txt          
 sftp> l[Kmkdir
-You must specify a path after a mkdir command.
+You must specify a path after a mkdir command.
+
 sftp> mkdir test
 sftp> ls
 examples.desktop    result.txt          test                
@@ -69,7 +74,8 @@ Local working directory: /home/s4d1
 sftp> pwd
 Remote working directory: /home/cs17d15
 sftp> put name.txt
-stat name.txt: No such file or directory
+stat name.txt: No such file or directory
+
 sftp> exit
 ]0;s4d1@tpc-Veriton-Series: ~[01;32ms4d1@tpc-Veriton-Series[00m:[01;34m~[00m$ exit
 exit
